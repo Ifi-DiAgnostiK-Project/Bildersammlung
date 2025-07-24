@@ -85,10 +85,12 @@ def process_file(parent_folder, makros, showcase):
         if os.path.isfile(full_path) and is_image_file(item):
             # Only process image files
             filename = get_name(item)
-            entry = "_".join(Path(parent_folder).parts[-2:])
+            entries = Path(parent_folder).parts[-2:]
+            entry = "_".join(entries)
+            parent_folders = Path(*entries).as_posix()
             makros.append("")
-            makros.append(f'@{entry}.{filename}.src: @diagnostik_url/{entry}/{item}')
-            makros.append(f'@{entry}.{filename}: @diagnostik_image(@diagnostik_url,{entry}/{item},@0)')
+            makros.append(f'@{entry}.{filename}.src: @diagnostik_url/{parent_folders}/{item}')
+            makros.append(f'@{entry}.{filename}: @diagnostik_image(@diagnostik_url,{parent_folders}/{item},@0)')
 
             showcase.append(f"|@{entry}.{filename}(10)|`{item}`|`@{entry}.{filename}(10)`|")
 
