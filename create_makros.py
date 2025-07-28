@@ -7,16 +7,16 @@ ignore_dirs = ['Collections']
 makros_setup = '''<!--
 author: Volker Göhler, Niklas Werner
 email: volker.goehler@informatik.tu-freiberg
-version: 0.0.2
+version: 0.0.3
 repository: https://github.com/Ifi-DiAgnostiK-Project/Bildersammlung
 edit: true
 title: DiAgnostiK Bilder Makros
 
 tags: Wissensspeicher
 
-@diagnostik_url: https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/Bildersammlung/refs/heads/main/img
+@diagnostik_url_pics: https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/Bildersammlung/refs/heads/main/img
 
-@diagnostik_image: <img src="@0/@1" alt="@1" style="height: @2rem">
+@diagnostik_image_pics: <img src="@0/@1" alt="@1" style="height: @2rem">
 '''
 
 location = 'https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/Bildersammlung/refs/heads/main/makros.md'
@@ -92,8 +92,8 @@ def process_file(parent_folder, makros, showcase):
             entry = "_".join(entries)
             parent_folders = Path(*entries).as_posix()
             makros.append("")
-            makros.append(f'@{entry}.{filename}.src: @diagnostik_url/{parent_folders}/{item}')
-            makros.append(f'@{entry}.{filename}: @diagnostik_image(@diagnostik_url,{parent_folders}/{item},@0)')
+            makros.append(f'@{entry}.{filename}.src: @diagnostik_url_pics/{parent_folders}/{item}')
+            makros.append(f'@{entry}.{filename}: @diagnostik_image_pics(@diagnostik_url_pics,{parent_folders}/{item},@0)')
 
             showcase.append(f"|@{entry}.{filename}(10)|`{item}`|`@{entry}.{filename}(10)`|")
 
