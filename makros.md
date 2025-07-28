@@ -1,7 +1,7 @@
 <!--
 author: Volker Göhler, Niklas Werner
 email: volker.goehler@informatik.tu-freiberg
-version: 0.0.1
+version: 0.0.2
 repository: https://github.com/Ifi-DiAgnostiK-Project/Bildersammlung
 edit: true
 title: DiAgnostiK Bilder Makros
