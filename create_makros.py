@@ -7,7 +7,7 @@ ignore_dirs = ['Collections']
 makros_setup = '''<!--
 author: Volker Göhler, Niklas Werner
 email: volker.goehler@informatik.tu-freiberg
-version: 0.0.3
+version: 0.0.4
 repository: https://github.com/Ifi-DiAgnostiK-Project/Bildersammlung
 edit: true
 title: DiAgnostiK Bilder Makros
@@ -79,6 +79,10 @@ def is_image_file(filename):
     image_extensions = ('.jpg', '.jpeg', '.png', '.gif', '.bmp', '.tiff', '.webp')
     return filename.lower().endswith(image_extensions)
 
+def clean_filename(filename):
+    itemname = Path(item).stem
+    return itemname.replace('_', ' ').replace('-', ' ')
+
 def process_file(parent_folder, makros, showcase):
     """This writes a makro and a showcase for all files in a given folder."""
     for item in os.listdir(parent_folder):
@@ -95,7 +99,8 @@ def process_file(parent_folder, makros, showcase):
             makros.append(f'@{entry}.{filename}.src: @diagnostik_url_pics/{parent_folders}/{item}')
             makros.append(f'@{entry}.{filename}: @diagnostik_image_pics(@diagnostik_url_pics,{parent_folders}/{item},@0)')
 
-            showcase.append(f"|@{entry}.{filename}(10)|`{item}`|`@{entry}.{filename}(10)`|")
+            itemname = clean_filename(item)
+            showcase.append(f"|@{entry}.{filename}(10)|_{itemname}_|`@{entry}.{filename}(10)`|")
 
 def get_name(filepath):
     """this returns the name of the image file without the extension."""
