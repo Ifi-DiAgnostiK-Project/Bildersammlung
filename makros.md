@@ -13,6 +13,138 @@ tags: Wissensspeicher
 @diagnostik_image_pics: <img src="@0/@1" alt="@1" style="height: @2rem">
 
 
+@Raumausstatter_Werkzeuge.Spuhlenkapsel2.src: @diagnostik_url_pics/Raumausstatter/Werkzeuge/Spuhlenkapsel2.jpg
+@Raumausstatter_Werkzeuge.Spuhlenkapsel2: @diagnostik_image_pics(@diagnostik_url_pics,Raumausstatter/Werkzeuge/Spuhlenkapsel2.jpg,@0)
+
+@Raumausstatter_Werkzeuge.Spuhlenkapsel1.src: @diagnostik_url_pics/Raumausstatter/Werkzeuge/Spuhlenkapsel1.jpg
+@Raumausstatter_Werkzeuge.Spuhlenkapsel1: @diagnostik_image_pics(@diagnostik_url_pics,Raumausstatter/Werkzeuge/Spuhlenkapsel1.jpg,@0)
+
+@Raumausstatter_Werkzeuge.Spuhlenkapsel3.src: @diagnostik_url_pics/Raumausstatter/Werkzeuge/Spuhlenkapsel3.jpg
+@Raumausstatter_Werkzeuge.Spuhlenkapsel3: @diagnostik_image_pics(@diagnostik_url_pics,Raumausstatter/Werkzeuge/Spuhlenkapsel3.jpg,@0)
+
+@Raumausstatter_Materialien.Federkorb_3x3_unterseite.src: @diagnostik_url_pics/Raumausstatter/Materialien/Federkorb_3x3_unterseite.jpg
+@Raumausstatter_Materialien.Federkorb_3x3_unterseite: @diagnostik_image_pics(@diagnostik_url_pics,Raumausstatter/Materialien/Federkorb_3x3_unterseite.jpg,@0)
+
+@Raumausstatter_Materialien.PVC_oberseite.src: @diagnostik_url_pics/Raumausstatter/Materialien/PVC_oberseite.jpg
+@Raumausstatter_Materialien.PVC_oberseite: @diagnostik_image_pics(@diagnostik_url_pics,Raumausstatter/Materialien/PVC_oberseite.jpg,@0)
+
+@Raumausstatter_Materialien.Wellenfeder1.src: @diagnostik_url_pics/Raumausstatter/Materialien/Wellenfeder1.jpg
+@Raumausstatter_Materialien.Wellenfeder1: @diagnostik_image_pics(@diagnostik_url_pics,Raumausstatter/Materialien/Wellenfeder1.jpg,@0)
+
+@Raumausstatter_Materialien.Gewebter_Teppich_unterseite.src: @diagnostik_url_pics/Raumausstatter/Materialien/Gewebter_Teppich_unterseite.jpg
+@Raumausstatter_Materialien.Gewebter_Teppich_unterseite: @diagnostik_image_pics(@diagnostik_url_pics,Raumausstatter/Materialien/Gewebter_Teppich_unterseite.jpg,@0)
+
+@Raumausstatter_Materialien.Linoleum_unterseite.src: @diagnostik_url_pics/Raumausstatter/Materialien/Linoleum_unterseite.jpg
+@Raumausstatter_Materialien.Linoleum_unterseite: @diagnostik_image_pics(@diagnostik_url_pics,Raumausstatter/Materialien/Linoleum_unterseite.jpg,@0)
+
+@Raumausstatter_Materialien.Kugelgarn_querschnitt.src: @diagnostik_url_pics/Raumausstatter/Materialien/Kugelgarn_querschnitt.jpg
+@Raumausstatter_Materialien.Kugelgarn_querschnitt: @diagnostik_image_pics(@diagnostik_url_pics,Raumausstatter/Materialien/Kugelgarn_querschnitt.jpg,@0)
+
+@Raumausstatter_Materialien.Linoleum_querschnitt.src: @diagnostik_url_pics/Raumausstatter/Materialien/Linoleum_querschnitt.jpg
+@Raumausstatter_Materialien.Linoleum_querschnitt: @diagnostik_image_pics(@diagnostik_url_pics,Raumausstatter/Materialien/Linoleum_querschnitt.jpg,@0)
+
+@Raumausstatter_Materialien.Polsteruntergrund_Holzplatte.src: @diagnostik_url_pics/Raumausstatter/Materialien/Polsteruntergrund_Holzplatte.jpg
+@Raumausstatter_Materialien.Polsteruntergrund_Holzplatte: @diagnostik_image_pics(@diagnostik_url_pics,Raumausstatter/Materialien/Polsteruntergrund_Holzplatte.jpg,@0)
+
+@Raumausstatter_Materialien.CV_Belag_unterseite.src: @diagnostik_url_pics/Raumausstatter/Materialien/CV_Belag_unterseite.jpg
+@Raumausstatter_Materialien.CV_Belag_unterseite: @diagnostik_image_pics(@diagnostik_url_pics,Raumausstatter/Materialien/CV_Belag_unterseite.jpg,@0)
+
+@Raumausstatter_Materialien.PVC_querschnitt.src: @diagnostik_url_pics/Raumausstatter/Materialien/PVC_querschnitt.jpg
+@Raumausstatter_Materialien.PVC_querschnitt: @diagnostik_image_pics(@diagnostik_url_pics,Raumausstatter/Materialien/PVC_querschnitt.jpg,@0)
+
+@Raumausstatter_Materialien.PVC_unterseite.src: @diagnostik_url_pics/Raumausstatter/Materialien/PVC_unterseite.jpg
+@Raumausstatter_Materialien.PVC_unterseite: @diagnostik_image_pics(@diagnostik_url_pics,Raumausstatter/Materialien/PVC_unterseite.jpg,@0)
+
+@Raumausstatter_Materialien.Kugelgarn_oberseite.src: @diagnostik_url_pics/Raumausstatter/Materialien/Kugelgarn_oberseite.jpg
+@Raumausstatter_Materialien.Kugelgarn_oberseite: @diagnostik_image_pics(@diagnostik_url_pics,Raumausstatter/Materialien/Kugelgarn_oberseite.jpg,@0)
+
+@Raumausstatter_Materialien.Tufting_Teppich_oberseite.src: @diagnostik_url_pics/Raumausstatter/Materialien/Tufting_Teppich_oberseite.jpg
+@Raumausstatter_Materialien.Tufting_Teppich_oberseite: @diagnostik_image_pics(@diagnostik_url_pics,Raumausstatter/Materialien/Tufting_Teppich_oberseite.jpg,@0)
+
+@Raumausstatter_Materialien.Polstergurt2.src: @diagnostik_url_pics/Raumausstatter/Materialien/Polstergurt2.jpg
+@Raumausstatter_Materialien.Polstergurt2: @diagnostik_image_pics(@diagnostik_url_pics,Raumausstatter/Materialien/Polstergurt2.jpg,@0)
+
+@Raumausstatter_Materialien.Rapportstoff_mit_webkante.src: @diagnostik_url_pics/Raumausstatter/Materialien/Rapportstoff_mit_webkante.jpg
+@Raumausstatter_Materialien.Rapportstoff_mit_webkante: @diagnostik_image_pics(@diagnostik_url_pics,Raumausstatter/Materialien/Rapportstoff_mit_webkante.jpg,@0)
+
+@Raumausstatter_Materialien.Polstergurt1.src: @diagnostik_url_pics/Raumausstatter/Materialien/Polstergurt1.jpg
+@Raumausstatter_Materialien.Polstergurt1: @diagnostik_image_pics(@diagnostik_url_pics,Raumausstatter/Materialien/Polstergurt1.jpg,@0)
+
+@Raumausstatter_Materialien.Designbelag_unterseite.src: @diagnostik_url_pics/Raumausstatter/Materialien/Designbelag_unterseite.jpg
+@Raumausstatter_Materialien.Designbelag_unterseite: @diagnostik_image_pics(@diagnostik_url_pics,Raumausstatter/Materialien/Designbelag_unterseite.jpg,@0)
+
+@Raumausstatter_Materialien.Polstergurt3.src: @diagnostik_url_pics/Raumausstatter/Materialien/Polstergurt3.jpg
+@Raumausstatter_Materialien.Polstergurt3: @diagnostik_image_pics(@diagnostik_url_pics,Raumausstatter/Materialien/Polstergurt3.jpg,@0)
+
+@Raumausstatter_Materialien.Tufting_Teppich.src: @diagnostik_url_pics/Raumausstatter/Materialien/Tufting_Teppich.jpg
+@Raumausstatter_Materialien.Tufting_Teppich: @diagnostik_image_pics(@diagnostik_url_pics,Raumausstatter/Materialien/Tufting_Teppich.jpg,@0)
+
+@Raumausstatter_Materialien.Designbelag_oberseite.src: @diagnostik_url_pics/Raumausstatter/Materialien/Designbelag_oberseite.jpg
+@Raumausstatter_Materialien.Designbelag_oberseite: @diagnostik_image_pics(@diagnostik_url_pics,Raumausstatter/Materialien/Designbelag_oberseite.jpg,@0)
+
+@Raumausstatter_Materialien.Rapportstoff_2.src: @diagnostik_url_pics/Raumausstatter/Materialien/Rapportstoff_2.jpg
+@Raumausstatter_Materialien.Rapportstoff_2: @diagnostik_image_pics(@diagnostik_url_pics,Raumausstatter/Materialien/Rapportstoff_2.jpg,@0)
+
+@Raumausstatter_Materialien.Polsteruntergrund_Holzplatte_querschnitt.src: @diagnostik_url_pics/Raumausstatter/Materialien/Polsteruntergrund_Holzplatte_querschnitt.jpg
+@Raumausstatter_Materialien.Polsteruntergrund_Holzplatte_querschnitt: @diagnostik_image_pics(@diagnostik_url_pics,Raumausstatter/Materialien/Polsteruntergrund_Holzplatte_querschnitt.jpg,@0)
+
+@Raumausstatter_Materialien.Taillenfeder_frontalansicht.src: @diagnostik_url_pics/Raumausstatter/Materialien/Taillenfeder_frontalansicht.jpg
+@Raumausstatter_Materialien.Taillenfeder_frontalansicht: @diagnostik_image_pics(@diagnostik_url_pics,Raumausstatter/Materialien/Taillenfeder_frontalansicht.jpg,@0)
+
+@Raumausstatter_Materialien.Wellenfeder.src: @diagnostik_url_pics/Raumausstatter/Materialien/Wellenfeder.jpg
+@Raumausstatter_Materialien.Wellenfeder: @diagnostik_image_pics(@diagnostik_url_pics,Raumausstatter/Materialien/Wellenfeder.jpg,@0)
+
+@Raumausstatter_Materialien.Taillenfeder_Knoten.src: @diagnostik_url_pics/Raumausstatter/Materialien/Taillenfeder_Knoten.jpg
+@Raumausstatter_Materialien.Taillenfeder_Knoten: @diagnostik_image_pics(@diagnostik_url_pics,Raumausstatter/Materialien/Taillenfeder_Knoten.jpg,@0)
+
+@Raumausstatter_Materialien.Rapportstoff_webkante1.src: @diagnostik_url_pics/Raumausstatter/Materialien/Rapportstoff_webkante1.jpg
+@Raumausstatter_Materialien.Rapportstoff_webkante1: @diagnostik_image_pics(@diagnostik_url_pics,Raumausstatter/Materialien/Rapportstoff_webkante1.jpg,@0)
+
+@Raumausstatter_Materialien.Kugelgarn_unterseite.src: @diagnostik_url_pics/Raumausstatter/Materialien/Kugelgarn_unterseite.jpg
+@Raumausstatter_Materialien.Kugelgarn_unterseite: @diagnostik_image_pics(@diagnostik_url_pics,Raumausstatter/Materialien/Kugelgarn_unterseite.jpg,@0)
+
+@Raumausstatter_Materialien.Rapportstoff_1.src: @diagnostik_url_pics/Raumausstatter/Materialien/Rapportstoff_1.jpg
+@Raumausstatter_Materialien.Rapportstoff_1: @diagnostik_image_pics(@diagnostik_url_pics,Raumausstatter/Materialien/Rapportstoff_1.jpg,@0)
+
+@Raumausstatter_Materialien.CV_Belag_oberseite.src: @diagnostik_url_pics/Raumausstatter/Materialien/CV_Belag_oberseite.jpg
+@Raumausstatter_Materialien.CV_Belag_oberseite: @diagnostik_image_pics(@diagnostik_url_pics,Raumausstatter/Materialien/CV_Belag_oberseite.jpg,@0)
+
+@Raumausstatter_Materialien.Federkorb_3x3_oberseite.src: @diagnostik_url_pics/Raumausstatter/Materialien/Federkorb_3x3_oberseite.jpg
+@Raumausstatter_Materialien.Federkorb_3x3_oberseite: @diagnostik_image_pics(@diagnostik_url_pics,Raumausstatter/Materialien/Federkorb_3x3_oberseite.jpg,@0)
+
+@Raumausstatter_Materialien.Rapportstoff_fadengerade1.src: @diagnostik_url_pics/Raumausstatter/Materialien/Rapportstoff_fadengerade1.jpg
+@Raumausstatter_Materialien.Rapportstoff_fadengerade1: @diagnostik_image_pics(@diagnostik_url_pics,Raumausstatter/Materialien/Rapportstoff_fadengerade1.jpg,@0)
+
+@Raumausstatter_Materialien.Designbelag_querschnitt.src: @diagnostik_url_pics/Raumausstatter/Materialien/Designbelag_querschnitt.jpg
+@Raumausstatter_Materialien.Designbelag_querschnitt: @diagnostik_image_pics(@diagnostik_url_pics,Raumausstatter/Materialien/Designbelag_querschnitt.jpg,@0)
+
+@Raumausstatter_Materialien.Tufting_Teppich_rueckseite_.src: @diagnostik_url_pics/Raumausstatter/Materialien/Tufting_Teppich_rueckseite..jpg
+@Raumausstatter_Materialien.Tufting_Teppich_rueckseite_: @diagnostik_image_pics(@diagnostik_url_pics,Raumausstatter/Materialien/Tufting_Teppich_rueckseite..jpg,@0)
+
+@Raumausstatter_Materialien.CV_Belag_querschnitt.src: @diagnostik_url_pics/Raumausstatter/Materialien/CV_Belag_querschnitt.jpg
+@Raumausstatter_Materialien.CV_Belag_querschnitt: @diagnostik_image_pics(@diagnostik_url_pics,Raumausstatter/Materialien/CV_Belag_querschnitt.jpg,@0)
+
+@Raumausstatter_Materialien.Gewebter_Teppich_oberseite.src: @diagnostik_url_pics/Raumausstatter/Materialien/Gewebter_Teppich_oberseite.jpg
+@Raumausstatter_Materialien.Gewebter_Teppich_oberseite: @diagnostik_image_pics(@diagnostik_url_pics,Raumausstatter/Materialien/Gewebter_Teppich_oberseite.jpg,@0)
+
+@Raumausstatter_Materialien.Linoleum_oberseite.src: @diagnostik_url_pics/Raumausstatter/Materialien/Linoleum_oberseite.jpg
+@Raumausstatter_Materialien.Linoleum_oberseite: @diagnostik_image_pics(@diagnostik_url_pics,Raumausstatter/Materialien/Linoleum_oberseite.jpg,@0)
+
+@Raumausstatter_Materialien.Stabparkett.src: @diagnostik_url_pics/Raumausstatter/Materialien/Stabparkett.jpg
+@Raumausstatter_Materialien.Stabparkett: @diagnostik_image_pics(@diagnostik_url_pics,Raumausstatter/Materialien/Stabparkett.jpg,@0)
+
+@Raumausstatter_Materialien.Rapportstoff_fadengerade.src: @diagnostik_url_pics/Raumausstatter/Materialien/Rapportstoff_fadengerade.jpg
+@Raumausstatter_Materialien.Rapportstoff_fadengerade: @diagnostik_image_pics(@diagnostik_url_pics,Raumausstatter/Materialien/Rapportstoff_fadengerade.jpg,@0)
+
+@Raumausstatter_Materialien.Taillenfeder_draufsicht.src: @diagnostik_url_pics/Raumausstatter/Materialien/Taillenfeder_draufsicht.jpg
+@Raumausstatter_Materialien.Taillenfeder_draufsicht: @diagnostik_image_pics(@diagnostik_url_pics,Raumausstatter/Materialien/Taillenfeder_draufsicht.jpg,@0)
+
+@Raumausstatter_Materialien.Gewebter_Teppich_querschnitt.src: @diagnostik_url_pics/Raumausstatter/Materialien/Gewebter_Teppich_querschnitt.jpg
+@Raumausstatter_Materialien.Gewebter_Teppich_querschnitt: @diagnostik_image_pics(@diagnostik_url_pics,Raumausstatter/Materialien/Gewebter_Teppich_querschnitt.jpg,@0)
+
+@Raumausstatter_Materialien.Federkorb_3x3_perspektive.src: @diagnostik_url_pics/Raumausstatter/Materialien/Federkorb_3x3_perspektive.jpg
+@Raumausstatter_Materialien.Federkorb_3x3_perspektive: @diagnostik_image_pics(@diagnostik_url_pics,Raumausstatter/Materialien/Federkorb_3x3_perspektive.jpg,@0)
+
 @SHK_Werkzeuge.Kaltbiegen_ROBEND_Grundgeraet.src: @diagnostik_url_pics/SHK/Werkzeuge/Kaltbiegen_ROBEND_Grundgeraet.JPG
 @SHK_Werkzeuge.Kaltbiegen_ROBEND_Grundgeraet: @diagnostik_image_pics(@diagnostik_url_pics,SHK/Werkzeuge/Kaltbiegen_ROBEND_Grundgeraet.JPG,@0)
 
@@ -340,6 +472,55 @@ Alle Bilder sowie ihre Bereiche und die Befehle um sie zu laden sind in den Tabe
 
 Im Nachfolgenden sind alle Bilder aller Bereiche und passende Befehle aufgelistet, die in dieser Sammlung enthalten sind.
 
+
+### Raumausstatter
+
+|Bild|Name|Befehl|
+|---|---|---|
+|@Raumausstatter_Werkzeuge.Spuhlenkapsel2(10)|_Spuhlenkapsel2_|`@Raumausstatter_Werkzeuge.Spuhlenkapsel2(10)`|
+|@Raumausstatter_Werkzeuge.Spuhlenkapsel1(10)|_Spuhlenkapsel1_|`@Raumausstatter_Werkzeuge.Spuhlenkapsel1(10)`|
+|@Raumausstatter_Werkzeuge.Spuhlenkapsel3(10)|_Spuhlenkapsel3_|`@Raumausstatter_Werkzeuge.Spuhlenkapsel3(10)`|
+|@Raumausstatter_Materialien.Federkorb_3x3_unterseite(10)|_Federkorb 3x3 unterseite_|`@Raumausstatter_Materialien.Federkorb_3x3_unterseite(10)`|
+|@Raumausstatter_Materialien.PVC_oberseite(10)|_PVC oberseite_|`@Raumausstatter_Materialien.PVC_oberseite(10)`|
+|@Raumausstatter_Materialien.Wellenfeder1(10)|_Wellenfeder1_|`@Raumausstatter_Materialien.Wellenfeder1(10)`|
+|@Raumausstatter_Materialien.Gewebter_Teppich_unterseite(10)|_Gewebter Teppich unterseite_|`@Raumausstatter_Materialien.Gewebter_Teppich_unterseite(10)`|
+|@Raumausstatter_Materialien.Linoleum_unterseite(10)|_Linoleum unterseite_|`@Raumausstatter_Materialien.Linoleum_unterseite(10)`|
+|@Raumausstatter_Materialien.Kugelgarn_querschnitt(10)|_Kugelgarn querschnitt_|`@Raumausstatter_Materialien.Kugelgarn_querschnitt(10)`|
+|@Raumausstatter_Materialien.Linoleum_querschnitt(10)|_Linoleum querschnitt_|`@Raumausstatter_Materialien.Linoleum_querschnitt(10)`|
+|@Raumausstatter_Materialien.Polsteruntergrund_Holzplatte(10)|_Polsteruntergrund Holzplatte_|`@Raumausstatter_Materialien.Polsteruntergrund_Holzplatte(10)`|
+|@Raumausstatter_Materialien.CV_Belag_unterseite(10)|_CV Belag unterseite_|`@Raumausstatter_Materialien.CV_Belag_unterseite(10)`|
+|@Raumausstatter_Materialien.PVC_querschnitt(10)|_PVC querschnitt_|`@Raumausstatter_Materialien.PVC_querschnitt(10)`|
+|@Raumausstatter_Materialien.PVC_unterseite(10)|_PVC unterseite_|`@Raumausstatter_Materialien.PVC_unterseite(10)`|
+|@Raumausstatter_Materialien.Kugelgarn_oberseite(10)|_Kugelgarn oberseite_|`@Raumausstatter_Materialien.Kugelgarn_oberseite(10)`|
+|@Raumausstatter_Materialien.Tufting_Teppich_oberseite(10)|_Tufting Teppich oberseite_|`@Raumausstatter_Materialien.Tufting_Teppich_oberseite(10)`|
+|@Raumausstatter_Materialien.Polstergurt2(10)|_Polstergurt2_|`@Raumausstatter_Materialien.Polstergurt2(10)`|
+|@Raumausstatter_Materialien.Rapportstoff_mit_webkante(10)|_Rapportstoff mit webkante_|`@Raumausstatter_Materialien.Rapportstoff_mit_webkante(10)`|
+|@Raumausstatter_Materialien.Polstergurt1(10)|_Polstergurt1_|`@Raumausstatter_Materialien.Polstergurt1(10)`|
+|@Raumausstatter_Materialien.Designbelag_unterseite(10)|_Designbelag unterseite_|`@Raumausstatter_Materialien.Designbelag_unterseite(10)`|
+|@Raumausstatter_Materialien.Polstergurt3(10)|_Polstergurt3_|`@Raumausstatter_Materialien.Polstergurt3(10)`|
+|@Raumausstatter_Materialien.Tufting_Teppich(10)|_Tufting Teppich_|`@Raumausstatter_Materialien.Tufting_Teppich(10)`|
+|@Raumausstatter_Materialien.Designbelag_oberseite(10)|_Designbelag oberseite_|`@Raumausstatter_Materialien.Designbelag_oberseite(10)`|
+|@Raumausstatter_Materialien.Rapportstoff_2(10)|_Rapportstoff 2_|`@Raumausstatter_Materialien.Rapportstoff_2(10)`|
+|@Raumausstatter_Materialien.Polsteruntergrund_Holzplatte_querschnitt(10)|_Polsteruntergrund Holzplatte querschnitt_|`@Raumausstatter_Materialien.Polsteruntergrund_Holzplatte_querschnitt(10)`|
+|@Raumausstatter_Materialien.Taillenfeder_frontalansicht(10)|_Taillenfeder frontalansicht_|`@Raumausstatter_Materialien.Taillenfeder_frontalansicht(10)`|
+|@Raumausstatter_Materialien.Wellenfeder(10)|_Wellenfeder_|`@Raumausstatter_Materialien.Wellenfeder(10)`|
+|@Raumausstatter_Materialien.Taillenfeder_Knoten(10)|_Taillenfeder Knoten_|`@Raumausstatter_Materialien.Taillenfeder_Knoten(10)`|
+|@Raumausstatter_Materialien.Rapportstoff_webkante1(10)|_Rapportstoff webkante1_|`@Raumausstatter_Materialien.Rapportstoff_webkante1(10)`|
+|@Raumausstatter_Materialien.Kugelgarn_unterseite(10)|_Kugelgarn unterseite_|`@Raumausstatter_Materialien.Kugelgarn_unterseite(10)`|
+|@Raumausstatter_Materialien.Rapportstoff_1(10)|_Rapportstoff 1_|`@Raumausstatter_Materialien.Rapportstoff_1(10)`|
+|@Raumausstatter_Materialien.CV_Belag_oberseite(10)|_CV Belag oberseite_|`@Raumausstatter_Materialien.CV_Belag_oberseite(10)`|
+|@Raumausstatter_Materialien.Federkorb_3x3_oberseite(10)|_Federkorb 3x3 oberseite_|`@Raumausstatter_Materialien.Federkorb_3x3_oberseite(10)`|
+|@Raumausstatter_Materialien.Rapportstoff_fadengerade1(10)|_Rapportstoff fadengerade1_|`@Raumausstatter_Materialien.Rapportstoff_fadengerade1(10)`|
+|@Raumausstatter_Materialien.Designbelag_querschnitt(10)|_Designbelag querschnitt_|`@Raumausstatter_Materialien.Designbelag_querschnitt(10)`|
+|@Raumausstatter_Materialien.Tufting_Teppich_rueckseite_(10)|_Tufting Teppich rueckseite._|`@Raumausstatter_Materialien.Tufting_Teppich_rueckseite_(10)`|
+|@Raumausstatter_Materialien.CV_Belag_querschnitt(10)|_CV Belag querschnitt_|`@Raumausstatter_Materialien.CV_Belag_querschnitt(10)`|
+|@Raumausstatter_Materialien.Gewebter_Teppich_oberseite(10)|_Gewebter Teppich oberseite_|`@Raumausstatter_Materialien.Gewebter_Teppich_oberseite(10)`|
+|@Raumausstatter_Materialien.Linoleum_oberseite(10)|_Linoleum oberseite_|`@Raumausstatter_Materialien.Linoleum_oberseite(10)`|
+|@Raumausstatter_Materialien.Stabparkett(10)|_Stabparkett_|`@Raumausstatter_Materialien.Stabparkett(10)`|
+|@Raumausstatter_Materialien.Rapportstoff_fadengerade(10)|_Rapportstoff fadengerade_|`@Raumausstatter_Materialien.Rapportstoff_fadengerade(10)`|
+|@Raumausstatter_Materialien.Taillenfeder_draufsicht(10)|_Taillenfeder draufsicht_|`@Raumausstatter_Materialien.Taillenfeder_draufsicht(10)`|
+|@Raumausstatter_Materialien.Gewebter_Teppich_querschnitt(10)|_Gewebter Teppich querschnitt_|`@Raumausstatter_Materialien.Gewebter_Teppich_querschnitt(10)`|
+|@Raumausstatter_Materialien.Federkorb_3x3_perspektive(10)|_Federkorb 3x3 perspektive_|`@Raumausstatter_Materialien.Federkorb_3x3_perspektive(10)`|
 
 ### SHK
 
