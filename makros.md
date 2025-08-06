@@ -262,20 +262,560 @@ tags: Wissensspeicher
 @SHK_Planung.Uebung_Weich_und_Hartloeten.src: @diagnostik_url_pics/SHK/Planung/Uebung_Weich_und_Hartloeten.JPG
 @SHK_Planung.Uebung_Weich_und_Hartloeten: @diagnostik_image_pics(@diagnostik_url_pics,SHK/Planung/Uebung_Weich_und_Hartloeten.JPG,@0)
 
+@Maler_Werkzeuge.Glaettkelle_Entenfuf.src: @diagnostik_url_pics/Maler/Werkzeuge/Glaettkelle_Entenfuf.jpeg
+@Maler_Werkzeuge.Glaettkelle_Entenfuf: @diagnostik_image_pics(@diagnostik_url_pics,Maler/Werkzeuge/Glaettkelle_Entenfuf.jpeg,@0)
+
+@Maler_Werkzeuge.Kiste_Ruehrholz.src: @diagnostik_url_pics/Maler/Werkzeuge/Kiste_Ruehrholz.jpeg
+@Maler_Werkzeuge.Kiste_Ruehrholz: @diagnostik_image_pics(@diagnostik_url_pics,Maler/Werkzeuge/Kiste_Ruehrholz.jpeg,@0)
+
+@Maler_Werkzeuge.Glaettkelle2.src: @diagnostik_url_pics/Maler/Werkzeuge/Glaettkelle2.jpeg
+@Maler_Werkzeuge.Glaettkelle2: @diagnostik_image_pics(@diagnostik_url_pics,Maler/Werkzeuge/Glaettkelle2.jpeg,@0)
+
+@Maler_Werkzeuge.Schleifgeraet_Excenter120_Staubsack_2.src: @diagnostik_url_pics/Maler/Werkzeuge/Schleifgeraet_Excenter120_Staubsack_2.jpeg
+@Maler_Werkzeuge.Schleifgeraet_Excenter120_Staubsack_2: @diagnostik_image_pics(@diagnostik_url_pics,Maler/Werkzeuge/Schleifgeraet_Excenter120_Staubsack_2.jpeg,@0)
+
+@Maler_Werkzeuge.Ruehrwerk_Ruehrquirl_liegend2.src: @diagnostik_url_pics/Maler/Werkzeuge/Ruehrwerk_Ruehrquirl_liegend2.jpeg
+@Maler_Werkzeuge.Ruehrwerk_Ruehrquirl_liegend2: @diagnostik_image_pics(@diagnostik_url_pics,Maler/Werkzeuge/Ruehrwerk_Ruehrquirl_liegend2.jpeg,@0)
+
+@Maler_Werkzeuge.Heissluftfoehn_Geraet_altern.src: @diagnostik_url_pics/Maler/Werkzeuge/Heissluftfoehn_Geraet_altern.jpeg
+@Maler_Werkzeuge.Heissluftfoehn_Geraet_altern: @diagnostik_image_pics(@diagnostik_url_pics,Maler/Werkzeuge/Heissluftfoehn_Geraet_altern.jpeg,@0)
+
+@Maler_Werkzeuge.Ringpinsel_Gr30.src: @diagnostik_url_pics/Maler/Werkzeuge/Ringpinsel_Gr30.jpeg
+@Maler_Werkzeuge.Ringpinsel_Gr30: @diagnostik_image_pics(@diagnostik_url_pics,Maler/Werkzeuge/Ringpinsel_Gr30.jpeg,@0)
+
+@Maler_Werkzeuge.Schutzbrille2.src: @diagnostik_url_pics/Maler/Werkzeuge/Schutzbrille2.jpeg
+@Maler_Werkzeuge.Schutzbrille2: @diagnostik_image_pics(@diagnostik_url_pics,Maler/Werkzeuge/Schutzbrille2.jpeg,@0)
+
+@Maler_Werkzeuge.Schleifpapierhalter_Handschleifer4.src: @diagnostik_url_pics/Maler/Werkzeuge/Schleifpapierhalter_Handschleifer4.jpeg
+@Maler_Werkzeuge.Schleifpapierhalter_Handschleifer4: @diagnostik_image_pics(@diagnostik_url_pics,Maler/Werkzeuge/Schleifpapierhalter_Handschleifer4.jpeg,@0)
+
+@Maler_Werkzeuge.Schleifplatte_105_Delta_Schutzauflage2.src: @diagnostik_url_pics/Maler/Werkzeuge/Schleifplatte_105_Delta_Schutzauflage2.jpeg
+@Maler_Werkzeuge.Schleifplatte_105_Delta_Schutzauflage2: @diagnostik_image_pics(@diagnostik_url_pics,Maler/Werkzeuge/Schleifplatte_105_Delta_Schutzauflage2.jpeg,@0)
+
+@Maler_Werkzeuge.Papierrolle2.src: @diagnostik_url_pics/Maler/Werkzeuge/Papierrolle2.jpeg
+@Maler_Werkzeuge.Papierrolle2: @diagnostik_image_pics(@diagnostik_url_pics,Maler/Werkzeuge/Papierrolle2.jpeg,@0)
+
+@Maler_Werkzeuge.Kunststoffspachtel.src: @diagnostik_url_pics/Maler/Werkzeuge/Kunststoffspachtel.jpeg
+@Maler_Werkzeuge.Kunststoffspachtel: @diagnostik_image_pics(@diagnostik_url_pics,Maler/Werkzeuge/Kunststoffspachtel.jpeg,@0)
+
+@Maler_Werkzeuge.Schraegstrichzieher.src: @diagnostik_url_pics/Maler/Werkzeuge/Schraegstrichzieher.jpeg
+@Maler_Werkzeuge.Schraegstrichzieher: @diagnostik_image_pics(@diagnostik_url_pics,Maler/Werkzeuge/Schraegstrichzieher.jpeg,@0)
+
+@Maler_Werkzeuge.Stahllineal_6zoll.src: @diagnostik_url_pics/Maler/Werkzeuge/Stahllineal_6zoll.jpeg
+@Maler_Werkzeuge.Stahllineal_6zoll: @diagnostik_image_pics(@diagnostik_url_pics,Maler/Werkzeuge/Stahllineal_6zoll.jpeg,@0)
+
+@Maler_Werkzeuge.Flachpinsel_Set2.src: @diagnostik_url_pics/Maler/Werkzeuge/Flachpinsel_Set2.jpeg
+@Maler_Werkzeuge.Flachpinsel_Set2: @diagnostik_image_pics(@diagnostik_url_pics,Maler/Werkzeuge/Flachpinsel_Set2.jpeg,@0)
+
+@Maler_Werkzeuge.Kunststoffspachtel4.src: @diagnostik_url_pics/Maler/Werkzeuge/Kunststoffspachtel4.jpeg
+@Maler_Werkzeuge.Kunststoffspachtel4: @diagnostik_image_pics(@diagnostik_url_pics,Maler/Werkzeuge/Kunststoffspachtel4.jpeg,@0)
+
+@Maler_Werkzeuge.Schleifgeraet_Staubsack.src: @diagnostik_url_pics/Maler/Werkzeuge/Schleifgeraet_Staubsack.jpeg
+@Maler_Werkzeuge.Schleifgeraet_Staubsack: @diagnostik_image_pics(@diagnostik_url_pics,Maler/Werkzeuge/Schleifgeraet_Staubsack.jpeg,@0)
+
+@Maler_Werkzeuge.Stahllineal_200.src: @diagnostik_url_pics/Maler/Werkzeuge/Stahllineal_200.jpeg
+@Maler_Werkzeuge.Stahllineal_200: @diagnostik_image_pics(@diagnostik_url_pics,Maler/Werkzeuge/Stahllineal_200.jpeg,@0)
+
+@Maler_Werkzeuge.tapofix_cb75_5.src: @diagnostik_url_pics/Maler/Werkzeuge/tapofix_cb75_5.jpeg
+@Maler_Werkzeuge.tapofix_cb75_5: @diagnostik_image_pics(@diagnostik_url_pics,Maler/Werkzeuge/tapofix_cb75_5.jpeg,@0)
+
+@Maler_Werkzeuge.Schwingschleifer_Schleifklotz.src: @diagnostik_url_pics/Maler/Werkzeuge/Schwingschleifer_Schleifklotz.jpeg
+@Maler_Werkzeuge.Schwingschleifer_Schleifklotz: @diagnostik_image_pics(@diagnostik_url_pics,Maler/Werkzeuge/Schwingschleifer_Schleifklotz.jpeg,@0)
+
+@Maler_Werkzeuge.Ruehrwerk_Ruehrquirl.src: @diagnostik_url_pics/Maler/Werkzeuge/Ruehrwerk_Ruehrquirl.jpeg
+@Maler_Werkzeuge.Ruehrwerk_Ruehrquirl: @diagnostik_image_pics(@diagnostik_url_pics,Maler/Werkzeuge/Ruehrwerk_Ruehrquirl.jpeg,@0)
+
+@Maler_Werkzeuge.Malerlineal3.src: @diagnostik_url_pics/Maler/Werkzeuge/Malerlineal3.jpeg
+@Maler_Werkzeuge.Malerlineal3: @diagnostik_image_pics(@diagnostik_url_pics,Maler/Werkzeuge/Malerlineal3.jpeg,@0)
+
 @Maler_Werkzeuge.20x30_Malerwanne2.src: @diagnostik_url_pics/Maler/Werkzeuge/20x30_Malerwanne2.jpeg
 @Maler_Werkzeuge.20x30_Malerwanne2: @diagnostik_image_pics(@diagnostik_url_pics,Maler/Werkzeuge/20x30_Malerwanne2.jpeg,@0)
+
+@Maler_Werkzeuge.Heissluftfoehn_Duese_schmal2.src: @diagnostik_url_pics/Maler/Werkzeuge/Heissluftfoehn_Duese_schmal2.jpeg
+@Maler_Werkzeuge.Heissluftfoehn_Duese_schmal2: @diagnostik_image_pics(@diagnostik_url_pics,Maler/Werkzeuge/Heissluftfoehn_Duese_schmal2.jpeg,@0)
+
+@Maler_Werkzeuge.Schwingschleifer_Filterbeutel2.src: @diagnostik_url_pics/Maler/Werkzeuge/Schwingschleifer_Filterbeutel2.jpeg
+@Maler_Werkzeuge.Schwingschleifer_Filterbeutel2: @diagnostik_image_pics(@diagnostik_url_pics,Maler/Werkzeuge/Schwingschleifer_Filterbeutel2.jpeg,@0)
+
+@Maler_Werkzeuge.Heissluftfoehn_Duese_breit.src: @diagnostik_url_pics/Maler/Werkzeuge/Heissluftfoehn_Duese_breit.jpeg
+@Maler_Werkzeuge.Heissluftfoehn_Duese_breit: @diagnostik_image_pics(@diagnostik_url_pics,Maler/Werkzeuge/Heissluftfoehn_Duese_breit.jpeg,@0)
+
+@Maler_Werkzeuge.Papierrolle.src: @diagnostik_url_pics/Maler/Werkzeuge/Papierrolle.jpeg
+@Maler_Werkzeuge.Papierrolle: @diagnostik_image_pics(@diagnostik_url_pics,Maler/Werkzeuge/Papierrolle.jpeg,@0)
+
+@Maler_Werkzeuge.Ringpinsel_Groesse4.src: @diagnostik_url_pics/Maler/Werkzeuge/Ringpinsel_Groesse4.jpeg
+@Maler_Werkzeuge.Ringpinsel_Groesse4: @diagnostik_image_pics(@diagnostik_url_pics,Maler/Werkzeuge/Ringpinsel_Groesse4.jpeg,@0)
+
+@Maler_Werkzeuge.Schleifplatte_105_Delta.src: @diagnostik_url_pics/Maler/Werkzeuge/Schleifplatte_105_Delta.jpeg
+@Maler_Werkzeuge.Schleifplatte_105_Delta: @diagnostik_image_pics(@diagnostik_url_pics,Maler/Werkzeuge/Schleifplatte_105_Delta.jpeg,@0)
+
+@Maler_Werkzeuge.Streichbuerste.src: @diagnostik_url_pics/Maler/Werkzeuge/Streichbuerste.jpeg
+@Maler_Werkzeuge.Streichbuerste: @diagnostik_image_pics(@diagnostik_url_pics,Maler/Werkzeuge/Streichbuerste.jpeg,@0)
+
+@Maler_Werkzeuge.Schaumwalze2.src: @diagnostik_url_pics/Maler/Werkzeuge/Schaumwalze2.jpeg
+@Maler_Werkzeuge.Schaumwalze2: @diagnostik_image_pics(@diagnostik_url_pics,Maler/Werkzeuge/Schaumwalze2.jpeg,@0)
+
+@Maler_Werkzeuge.Tapezierbuerste.src: @diagnostik_url_pics/Maler/Werkzeuge/Tapezierbuerste.jpeg
+@Maler_Werkzeuge.Tapezierbuerste: @diagnostik_image_pics(@diagnostik_url_pics,Maler/Werkzeuge/Tapezierbuerste.jpeg,@0)
+
+@Maler_Werkzeuge.Handschleifklotz3.src: @diagnostik_url_pics/Maler/Werkzeuge/Handschleifklotz3.jpeg
+@Maler_Werkzeuge.Handschleifklotz3: @diagnostik_image_pics(@diagnostik_url_pics,Maler/Werkzeuge/Handschleifklotz3.jpeg,@0)
+
+@Maler_Werkzeuge.Ruehrwerk_Ruehrquirl_liegend.src: @diagnostik_url_pics/Maler/Werkzeuge/Ruehrwerk_Ruehrquirl_liegend.jpeg
+@Maler_Werkzeuge.Ruehrwerk_Ruehrquirl_liegend: @diagnostik_image_pics(@diagnostik_url_pics,Maler/Werkzeuge/Ruehrwerk_Ruehrquirl_liegend.jpeg,@0)
+
+@Maler_Werkzeuge.Heizkoerperroller.src: @diagnostik_url_pics/Maler/Werkzeuge/Heizkoerperroller.jpeg
+@Maler_Werkzeuge.Heizkoerperroller: @diagnostik_image_pics(@diagnostik_url_pics,Maler/Werkzeuge/Heizkoerperroller.jpeg,@0)
+
+@Maler_Werkzeuge.Heissluftfoehn_Geraet5.src: @diagnostik_url_pics/Maler/Werkzeuge/Heissluftfoehn_Geraet5.jpeg
+@Maler_Werkzeuge.Heissluftfoehn_Geraet5: @diagnostik_image_pics(@diagnostik_url_pics,Maler/Werkzeuge/Heissluftfoehn_Geraet5.jpeg,@0)
+
+@Maler_Werkzeuge.Schwingschleifer_Filterbeutel3.src: @diagnostik_url_pics/Maler/Werkzeuge/Schwingschleifer_Filterbeutel3.jpeg
+@Maler_Werkzeuge.Schwingschleifer_Filterbeutel3: @diagnostik_image_pics(@diagnostik_url_pics,Maler/Werkzeuge/Schwingschleifer_Filterbeutel3.jpeg,@0)
+
+@Maler_Werkzeuge.Pausbeutel.src: @diagnostik_url_pics/Maler/Werkzeuge/Pausbeutel.jpeg
+@Maler_Werkzeuge.Pausbeutel: @diagnostik_image_pics(@diagnostik_url_pics,Maler/Werkzeuge/Pausbeutel.jpeg,@0)
+
+@Maler_Werkzeuge.Stahllineal2.src: @diagnostik_url_pics/Maler/Werkzeuge/Stahllineal2.jpeg
+@Maler_Werkzeuge.Stahllineal2: @diagnostik_image_pics(@diagnostik_url_pics,Maler/Werkzeuge/Stahllineal2.jpeg,@0)
+
+@Maler_Werkzeuge.Abwaschbuerste.src: @diagnostik_url_pics/Maler/Werkzeuge/Abwaschbuerste.jpeg
+@Maler_Werkzeuge.Abwaschbuerste: @diagnostik_image_pics(@diagnostik_url_pics,Maler/Werkzeuge/Abwaschbuerste.jpeg,@0)
+
+@Maler_Werkzeuge.Kartuschenpresse.src: @diagnostik_url_pics/Maler/Werkzeuge/Kartuschenpresse.jpeg
+@Maler_Werkzeuge.Kartuschenpresse: @diagnostik_image_pics(@diagnostik_url_pics,Maler/Werkzeuge/Kartuschenpresse.jpeg,@0)
+
+@Maler_Werkzeuge.Schabloniermesser_Set.src: @diagnostik_url_pics/Maler/Werkzeuge/Schabloniermesser_Set.jpeg
+@Maler_Werkzeuge.Schabloniermesser_Set: @diagnostik_image_pics(@diagnostik_url_pics,Maler/Werkzeuge/Schabloniermesser_Set.jpeg,@0)
+
+@Maler_Werkzeuge.Japanspachtel_Set.src: @diagnostik_url_pics/Maler/Werkzeuge/Japanspachtel_Set.jpeg
+@Maler_Werkzeuge.Japanspachtel_Set: @diagnostik_image_pics(@diagnostik_url_pics,Maler/Werkzeuge/Japanspachtel_Set.jpeg,@0)
+
+@Maler_Werkzeuge.Heissluftfoehn_Geraet3.src: @diagnostik_url_pics/Maler/Werkzeuge/Heissluftfoehn_Geraet3.jpeg
+@Maler_Werkzeuge.Heissluftfoehn_Geraet3: @diagnostik_image_pics(@diagnostik_url_pics,Maler/Werkzeuge/Heissluftfoehn_Geraet3.jpeg,@0)
+
+@Maler_Werkzeuge.Heissluftfoehn_Koffer.src: @diagnostik_url_pics/Maler/Werkzeuge/Heissluftfoehn_Koffer.jpeg
+@Maler_Werkzeuge.Heissluftfoehn_Koffer: @diagnostik_image_pics(@diagnostik_url_pics,Maler/Werkzeuge/Heissluftfoehn_Koffer.jpeg,@0)
+
+@Maler_Werkzeuge.Schutzauflage_Schwingschleifer.src: @diagnostik_url_pics/Maler/Werkzeuge/Schutzauflage_Schwingschleifer.jpeg
+@Maler_Werkzeuge.Schutzauflage_Schwingschleifer: @diagnostik_image_pics(@diagnostik_url_pics,Maler/Werkzeuge/Schutzauflage_Schwingschleifer.jpeg,@0)
+
+@Maler_Werkzeuge.Gliedermassstab_Zollstock.src: @diagnostik_url_pics/Maler/Werkzeuge/Gliedermassstab_Zollstock.jpeg
+@Maler_Werkzeuge.Gliedermassstab_Zollstock: @diagnostik_image_pics(@diagnostik_url_pics,Maler/Werkzeuge/Gliedermassstab_Zollstock.jpeg,@0)
+
+@Maler_Werkzeuge.Heissluftfoehn_Duese_schmal.src: @diagnostik_url_pics/Maler/Werkzeuge/Heissluftfoehn_Duese_schmal.jpeg
+@Maler_Werkzeuge.Heissluftfoehn_Duese_schmal: @diagnostik_image_pics(@diagnostik_url_pics,Maler/Werkzeuge/Heissluftfoehn_Duese_schmal.jpeg,@0)
+
+@Maler_Werkzeuge.Eimer_Wasser.src: @diagnostik_url_pics/Maler/Werkzeuge/Eimer_Wasser.jpeg
+@Maler_Werkzeuge.Eimer_Wasser: @diagnostik_image_pics(@diagnostik_url_pics,Maler/Werkzeuge/Eimer_Wasser.jpeg,@0)
+
+@Maler_Werkzeuge.Schwingschleifer2.src: @diagnostik_url_pics/Maler/Werkzeuge/Schwingschleifer2.jpeg
+@Maler_Werkzeuge.Schwingschleifer2: @diagnostik_image_pics(@diagnostik_url_pics,Maler/Werkzeuge/Schwingschleifer2.jpeg,@0)
+
+@Maler_Werkzeuge.Gliedermassstab_Zollstock2.src: @diagnostik_url_pics/Maler/Werkzeuge/Gliedermassstab_Zollstock2.jpeg
+@Maler_Werkzeuge.Gliedermassstab_Zollstock2: @diagnostik_image_pics(@diagnostik_url_pics,Maler/Werkzeuge/Gliedermassstab_Zollstock2.jpeg,@0)
+
+@Maler_Werkzeuge.Klebeband_orange_goldband_breit.src: @diagnostik_url_pics/Maler/Werkzeuge/Klebeband_orange_goldband_breit.jpeg
+@Maler_Werkzeuge.Klebeband_orange_goldband_breit: @diagnostik_image_pics(@diagnostik_url_pics,Maler/Werkzeuge/Klebeband_orange_goldband_breit.jpeg,@0)
+
+@Maler_Werkzeuge.Schleifmittel_Schleifpapier.src: @diagnostik_url_pics/Maler/Werkzeuge/Schleifmittel_Schleifpapier.jpeg
+@Maler_Werkzeuge.Schleifmittel_Schleifpapier: @diagnostik_image_pics(@diagnostik_url_pics,Maler/Werkzeuge/Schleifmittel_Schleifpapier.jpeg,@0)
 
 @Maler_Werkzeuge.20x30_Malerwanne.src: @diagnostik_url_pics/Maler/Werkzeuge/20x30_Malerwanne.jpeg
 @Maler_Werkzeuge.20x30_Malerwanne: @diagnostik_image_pics(@diagnostik_url_pics,Maler/Werkzeuge/20x30_Malerwanne.jpeg,@0)
 
+@Maler_Werkzeuge.Heizkoerperpinsel4.src: @diagnostik_url_pics/Maler/Werkzeuge/Heizkoerperpinsel4.jpeg
+@Maler_Werkzeuge.Heizkoerperpinsel4: @diagnostik_image_pics(@diagnostik_url_pics,Maler/Werkzeuge/Heizkoerperpinsel4.jpeg,@0)
+
+@Maler_Werkzeuge.Ringpinsel_Gr25.src: @diagnostik_url_pics/Maler/Werkzeuge/Ringpinsel_Gr25.jpeg
+@Maler_Werkzeuge.Ringpinsel_Gr25: @diagnostik_image_pics(@diagnostik_url_pics,Maler/Werkzeuge/Ringpinsel_Gr25.jpeg,@0)
+
+@Maler_Werkzeuge.Entenfuss3.src: @diagnostik_url_pics/Maler/Werkzeuge/Entenfuss3.jpeg
+@Maler_Werkzeuge.Entenfuss3: @diagnostik_image_pics(@diagnostik_url_pics,Maler/Werkzeuge/Entenfuss3.jpeg,@0)
+
+@Maler_Werkzeuge.Winkel.src: @diagnostik_url_pics/Maler/Werkzeuge/Winkel.jpeg
+@Maler_Werkzeuge.Winkel: @diagnostik_image_pics(@diagnostik_url_pics,Maler/Werkzeuge/Winkel.jpeg,@0)
+
+@Maler_Werkzeuge.Schleifpapierhalter_Handschleifer2.src: @diagnostik_url_pics/Maler/Werkzeuge/Schleifpapierhalter_Handschleifer2.jpeg
+@Maler_Werkzeuge.Schleifpapierhalter_Handschleifer2: @diagnostik_image_pics(@diagnostik_url_pics,Maler/Werkzeuge/Schleifpapierhalter_Handschleifer2.jpeg,@0)
+
+@Maler_Werkzeuge.Schleifpapierhalter_Handschleifer6.src: @diagnostik_url_pics/Maler/Werkzeuge/Schleifpapierhalter_Handschleifer6.jpeg
+@Maler_Werkzeuge.Schleifpapierhalter_Handschleifer6: @diagnostik_image_pics(@diagnostik_url_pics,Maler/Werkzeuge/Schleifpapierhalter_Handschleifer6.jpeg,@0)
+
+@Maler_Werkzeuge.Zirkel3.src: @diagnostik_url_pics/Maler/Werkzeuge/Zirkel3.jpeg
+@Maler_Werkzeuge.Zirkel3: @diagnostik_image_pics(@diagnostik_url_pics,Maler/Werkzeuge/Zirkel3.jpeg,@0)
+
+@Maler_Werkzeuge.Schleifgeraet_Excenter120_Staubsack3.src: @diagnostik_url_pics/Maler/Werkzeuge/Schleifgeraet_Excenter120_Staubsack3.jpeg
+@Maler_Werkzeuge.Schleifgeraet_Excenter120_Staubsack3: @diagnostik_image_pics(@diagnostik_url_pics,Maler/Werkzeuge/Schleifgeraet_Excenter120_Staubsack3.jpeg,@0)
+
+@Maler_Werkzeuge.Malerstock.src: @diagnostik_url_pics/Maler/Werkzeuge/Malerstock.jpeg
+@Maler_Werkzeuge.Malerstock: @diagnostik_image_pics(@diagnostik_url_pics,Maler/Werkzeuge/Malerstock.jpeg,@0)
+
+@Maler_Werkzeuge.Heizkoerperpinsel2.src: @diagnostik_url_pics/Maler/Werkzeuge/Heizkoerperpinsel2.jpeg
+@Maler_Werkzeuge.Heizkoerperpinsel2: @diagnostik_image_pics(@diagnostik_url_pics,Maler/Werkzeuge/Heizkoerperpinsel2.jpeg,@0)
+
+@Maler_Werkzeuge.Schutzauflage_Schwingschleifer2.src: @diagnostik_url_pics/Maler/Werkzeuge/Schutzauflage_Schwingschleifer2.jpeg
+@Maler_Werkzeuge.Schutzauflage_Schwingschleifer2: @diagnostik_image_pics(@diagnostik_url_pics,Maler/Werkzeuge/Schutzauflage_Schwingschleifer2.jpeg,@0)
+
+@Maler_Werkzeuge.Zirkel.src: @diagnostik_url_pics/Maler/Werkzeuge/Zirkel.jpeg
+@Maler_Werkzeuge.Zirkel: @diagnostik_image_pics(@diagnostik_url_pics,Maler/Werkzeuge/Zirkel.jpeg,@0)
+
+@Maler_Werkzeuge.tapofix_cb75_7.src: @diagnostik_url_pics/Maler/Werkzeuge/tapofix_cb75_7.jpeg
+@Maler_Werkzeuge.tapofix_cb75_7: @diagnostik_image_pics(@diagnostik_url_pics,Maler/Werkzeuge/tapofix_cb75_7.jpeg,@0)
+
+@Maler_Werkzeuge.tapofix_cb75_6.src: @diagnostik_url_pics/Maler/Werkzeuge/tapofix_cb75_6.jpeg
+@Maler_Werkzeuge.tapofix_cb75_6: @diagnostik_image_pics(@diagnostik_url_pics,Maler/Werkzeuge/tapofix_cb75_6.jpeg,@0)
+
+@Maler_Werkzeuge.Werkzeugkoffer.src: @diagnostik_url_pics/Maler/Werkzeuge/Werkzeugkoffer.jpeg
+@Maler_Werkzeuge.Werkzeugkoffer: @diagnostik_image_pics(@diagnostik_url_pics,Maler/Werkzeuge/Werkzeugkoffer.jpeg,@0)
+
+@Maler_Werkzeuge.Schutzbrille.src: @diagnostik_url_pics/Maler/Werkzeuge/Schutzbrille.jpeg
+@Maler_Werkzeuge.Schutzbrille: @diagnostik_image_pics(@diagnostik_url_pics,Maler/Werkzeuge/Schutzbrille.jpeg,@0)
+
+@Maler_Werkzeuge.Schleifplatte_105_Delta2.src: @diagnostik_url_pics/Maler/Werkzeuge/Schleifplatte_105_Delta2.jpeg
+@Maler_Werkzeuge.Schleifplatte_105_Delta2: @diagnostik_image_pics(@diagnostik_url_pics,Maler/Werkzeuge/Schleifplatte_105_Delta2.jpeg,@0)
+
+@Maler_Werkzeuge.Stahllineal_300.src: @diagnostik_url_pics/Maler/Werkzeuge/Stahllineal_300.jpeg
+@Maler_Werkzeuge.Stahllineal_300: @diagnostik_image_pics(@diagnostik_url_pics,Maler/Werkzeuge/Stahllineal_300.jpeg,@0)
+
+@Maler_Werkzeuge.Malerstock2.src: @diagnostik_url_pics/Maler/Werkzeuge/Malerstock2.jpeg
+@Maler_Werkzeuge.Malerstock2: @diagnostik_image_pics(@diagnostik_url_pics,Maler/Werkzeuge/Malerstock2.jpeg,@0)
+
+@Maler_Werkzeuge.Tapofix_Tapeziergeraet2.src: @diagnostik_url_pics/Maler/Werkzeuge/Tapofix_Tapeziergeraet2.jpeg
+@Maler_Werkzeuge.Tapofix_Tapeziergeraet2: @diagnostik_image_pics(@diagnostik_url_pics,Maler/Werkzeuge/Tapofix_Tapeziergeraet2.jpeg,@0)
+
+@Maler_Werkzeuge.Tapofix_Tapeziergeraet.src: @diagnostik_url_pics/Maler/Werkzeuge/Tapofix_Tapeziergeraet.jpeg
+@Maler_Werkzeuge.Tapofix_Tapeziergeraet: @diagnostik_image_pics(@diagnostik_url_pics,Maler/Werkzeuge/Tapofix_Tapeziergeraet.jpeg,@0)
+
+@Maler_Werkzeuge.Heissluftfoehn_Duese_schmal3.src: @diagnostik_url_pics/Maler/Werkzeuge/Heissluftfoehn_Duese_schmal3.jpeg
+@Maler_Werkzeuge.Heissluftfoehn_Duese_schmal3: @diagnostik_image_pics(@diagnostik_url_pics,Maler/Werkzeuge/Heissluftfoehn_Duese_schmal3.jpeg,@0)
+
 @Maler_Werkzeuge.Abbrechklingen.src: @diagnostik_url_pics/Maler/Werkzeuge/Abbrechklingen.jpeg
 @Maler_Werkzeuge.Abbrechklingen: @diagnostik_image_pics(@diagnostik_url_pics,Maler/Werkzeuge/Abbrechklingen.jpeg,@0)
+
+@Maler_Werkzeuge.Japanspachtel_120mm.src: @diagnostik_url_pics/Maler/Werkzeuge/Japanspachtel_120mm.jpeg
+@Maler_Werkzeuge.Japanspachtel_120mm: @diagnostik_image_pics(@diagnostik_url_pics,Maler/Werkzeuge/Japanspachtel_120mm.jpeg,@0)
+
+@Maler_Werkzeuge.Heissluftfoehn_Geraet_altern2.src: @diagnostik_url_pics/Maler/Werkzeuge/Heissluftfoehn_Geraet_altern2.jpeg
+@Maler_Werkzeuge.Heissluftfoehn_Geraet_altern2: @diagnostik_image_pics(@diagnostik_url_pics,Maler/Werkzeuge/Heissluftfoehn_Geraet_altern2.jpeg,@0)
+
+@Maler_Werkzeuge.Schwingschleifer_Filterbeutel.src: @diagnostik_url_pics/Maler/Werkzeuge/Schwingschleifer_Filterbeutel.jpeg
+@Maler_Werkzeuge.Schwingschleifer_Filterbeutel: @diagnostik_image_pics(@diagnostik_url_pics,Maler/Werkzeuge/Schwingschleifer_Filterbeutel.jpeg,@0)
+
+@Maler_Werkzeuge.Heissluftfoehn_Koffer_offen.src: @diagnostik_url_pics/Maler/Werkzeuge/Heissluftfoehn_Koffer_offen.jpeg
+@Maler_Werkzeuge.Heissluftfoehn_Koffer_offen: @diagnostik_image_pics(@diagnostik_url_pics,Maler/Werkzeuge/Heissluftfoehn_Koffer_offen.jpeg,@0)
+
+@Maler_Werkzeuge.Schleifplatte_105_Delta_Schutzauflage.src: @diagnostik_url_pics/Maler/Werkzeuge/Schleifplatte_105_Delta_Schutzauflage.jpeg
+@Maler_Werkzeuge.Schleifplatte_105_Delta_Schutzauflage: @diagnostik_image_pics(@diagnostik_url_pics,Maler/Werkzeuge/Schleifplatte_105_Delta_Schutzauflage.jpeg,@0)
+
+@Maler_Werkzeuge.tapofix_cb75_3.src: @diagnostik_url_pics/Maler/Werkzeuge/tapofix_cb75_3.jpeg
+@Maler_Werkzeuge.tapofix_cb75_3: @diagnostik_image_pics(@diagnostik_url_pics,Maler/Werkzeuge/tapofix_cb75_3.jpeg,@0)
+
+@Maler_Werkzeuge.Japanspachtel_100mm.src: @diagnostik_url_pics/Maler/Werkzeuge/Japanspachtel_100mm.jpeg
+@Maler_Werkzeuge.Japanspachtel_100mm: @diagnostik_image_pics(@diagnostik_url_pics,Maler/Werkzeuge/Japanspachtel_100mm.jpeg,@0)
+
+@Maler_Werkzeuge.Japanspachtel_Set2.src: @diagnostik_url_pics/Maler/Werkzeuge/Japanspachtel_Set2.jpeg
+@Maler_Werkzeuge.Japanspachtel_Set2: @diagnostik_image_pics(@diagnostik_url_pics,Maler/Werkzeuge/Japanspachtel_Set2.jpeg,@0)
+
+@Maler_Werkzeuge.15x30_Malerwanne_Farbwanne_Lackwanne.src: @diagnostik_url_pics/Maler/Werkzeuge/15x30_Malerwanne_Farbwanne_Lackwanne.jpeg
+@Maler_Werkzeuge.15x30_Malerwanne_Farbwanne_Lackwanne: @diagnostik_image_pics(@diagnostik_url_pics,Maler/Werkzeuge/15x30_Malerwanne_Farbwanne_Lackwanne.jpeg,@0)
+
+@Maler_Werkzeuge.Tapofix_Tapeziergeraet_Meterzaehler2.src: @diagnostik_url_pics/Maler/Werkzeuge/Tapofix_Tapeziergeraet_Meterzaehler2.jpeg
+@Maler_Werkzeuge.Tapofix_Tapeziergeraet_Meterzaehler2: @diagnostik_image_pics(@diagnostik_url_pics,Maler/Werkzeuge/Tapofix_Tapeziergeraet_Meterzaehler2.jpeg,@0)
+
+@Maler_Werkzeuge.Zirkel2.src: @diagnostik_url_pics/Maler/Werkzeuge/Zirkel2.jpeg
+@Maler_Werkzeuge.Zirkel2: @diagnostik_image_pics(@diagnostik_url_pics,Maler/Werkzeuge/Zirkel2.jpeg,@0)
+
+@Maler_Werkzeuge.Heizkoerperpinsel3.src: @diagnostik_url_pics/Maler/Werkzeuge/Heizkoerperpinsel3.jpeg
+@Maler_Werkzeuge.Heizkoerperpinsel3: @diagnostik_image_pics(@diagnostik_url_pics,Maler/Werkzeuge/Heizkoerperpinsel3.jpeg,@0)
+
+@Maler_Werkzeuge.Schlagschnur2.src: @diagnostik_url_pics/Maler/Werkzeuge/Schlagschnur2.jpeg
+@Maler_Werkzeuge.Schlagschnur2: @diagnostik_image_pics(@diagnostik_url_pics,Maler/Werkzeuge/Schlagschnur2.jpeg,@0)
+
+@Maler_Werkzeuge.Naturschwaemme.src: @diagnostik_url_pics/Maler/Werkzeuge/Naturschwaemme.jpeg
+@Maler_Werkzeuge.Naturschwaemme: @diagnostik_image_pics(@diagnostik_url_pics,Maler/Werkzeuge/Naturschwaemme.jpeg,@0)
+
+@Maler_Werkzeuge.Schleifgeraet_Excenter120.src: @diagnostik_url_pics/Maler/Werkzeuge/Schleifgeraet_Excenter120.jpeg
+@Maler_Werkzeuge.Schleifgeraet_Excenter120: @diagnostik_image_pics(@diagnostik_url_pics,Maler/Werkzeuge/Schleifgeraet_Excenter120.jpeg,@0)
+
+@Maler_Werkzeuge.Tapofix_Tapeziergeraet_Meterzaehler.src: @diagnostik_url_pics/Maler/Werkzeuge/Tapofix_Tapeziergeraet_Meterzaehler.jpeg
+@Maler_Werkzeuge.Tapofix_Tapeziergeraet_Meterzaehler: @diagnostik_image_pics(@diagnostik_url_pics,Maler/Werkzeuge/Tapofix_Tapeziergeraet_Meterzaehler.jpeg,@0)
+
+@Maler_Werkzeuge.Flachpinsel_Set.src: @diagnostik_url_pics/Maler/Werkzeuge/Flachpinsel_Set.jpeg
+@Maler_Werkzeuge.Flachpinsel_Set: @diagnostik_image_pics(@diagnostik_url_pics,Maler/Werkzeuge/Flachpinsel_Set.jpeg,@0)
+
+@Maler_Werkzeuge.Winkel2.src: @diagnostik_url_pics/Maler/Werkzeuge/Winkel2.jpeg
+@Maler_Werkzeuge.Winkel2: @diagnostik_image_pics(@diagnostik_url_pics,Maler/Werkzeuge/Winkel2.jpeg,@0)
 
 @Maler_Werkzeuge.15x30_Malerwanne.src: @diagnostik_url_pics/Maler/Werkzeuge/15x30_Malerwanne.jpeg
 @Maler_Werkzeuge.15x30_Malerwanne: @diagnostik_image_pics(@diagnostik_url_pics,Maler/Werkzeuge/15x30_Malerwanne.jpeg,@0)
 
+@Maler_Werkzeuge.tapofix_cb75.src: @diagnostik_url_pics/Maler/Werkzeuge/tapofix_cb75.jpeg
+@Maler_Werkzeuge.tapofix_cb75: @diagnostik_image_pics(@diagnostik_url_pics,Maler/Werkzeuge/tapofix_cb75.jpeg,@0)
+
+@Maler_Werkzeuge.tapofix_cb75_9.src: @diagnostik_url_pics/Maler/Werkzeuge/tapofix_cb75_9.jpeg
+@Maler_Werkzeuge.tapofix_cb75_9: @diagnostik_image_pics(@diagnostik_url_pics,Maler/Werkzeuge/tapofix_cb75_9.jpeg,@0)
+
+@Maler_Werkzeuge.15x30_Malerwanne_Farbwanne_Lackwanne2.src: @diagnostik_url_pics/Maler/Werkzeuge/15x30_Malerwanne_Farbwanne_Lackwanne2.jpeg
+@Maler_Werkzeuge.15x30_Malerwanne_Farbwanne_Lackwanne2: @diagnostik_image_pics(@diagnostik_url_pics,Maler/Werkzeuge/15x30_Malerwanne_Farbwanne_Lackwanne2.jpeg,@0)
+
+@Maler_Werkzeuge.Cuttermesser2.src: @diagnostik_url_pics/Maler/Werkzeuge/Cuttermesser2.jpeg
+@Maler_Werkzeuge.Cuttermesser2: @diagnostik_image_pics(@diagnostik_url_pics,Maler/Werkzeuge/Cuttermesser2.jpeg,@0)
+
+@Maler_Werkzeuge.Schraegstrichzieher2.src: @diagnostik_url_pics/Maler/Werkzeuge/Schraegstrichzieher2.jpeg
+@Maler_Werkzeuge.Schraegstrichzieher2: @diagnostik_image_pics(@diagnostik_url_pics,Maler/Werkzeuge/Schraegstrichzieher2.jpeg,@0)
+
+@Maler_Werkzeuge.Malerspachtel.src: @diagnostik_url_pics/Maler/Werkzeuge/Malerspachtel.jpeg
+@Maler_Werkzeuge.Malerspachtel: @diagnostik_image_pics(@diagnostik_url_pics,Maler/Werkzeuge/Malerspachtel.jpeg,@0)
+
+@Maler_Werkzeuge.Raufaser_25.src: @diagnostik_url_pics/Maler/Werkzeuge/Raufaser_25.jpeg
+@Maler_Werkzeuge.Raufaser_25: @diagnostik_image_pics(@diagnostik_url_pics,Maler/Werkzeuge/Raufaser_25.jpeg,@0)
+
+@Maler_Werkzeuge.Schaumwalze_Heizkoerperwalze.src: @diagnostik_url_pics/Maler/Werkzeuge/Schaumwalze_Heizkoerperwalze.jpeg
+@Maler_Werkzeuge.Schaumwalze_Heizkoerperwalze: @diagnostik_image_pics(@diagnostik_url_pics,Maler/Werkzeuge/Schaumwalze_Heizkoerperwalze.jpeg,@0)
+
+@Maler_Werkzeuge.Variovlies_M_120_pro.src: @diagnostik_url_pics/Maler/Werkzeuge/Variovlies_M_120_pro.jpeg
+@Maler_Werkzeuge.Variovlies_M_120_pro: @diagnostik_image_pics(@diagnostik_url_pics,Maler/Werkzeuge/Variovlies_M_120_pro.jpeg,@0)
+
+@Maler_Werkzeuge.Schleifpapierhalter_Handschleifer3.src: @diagnostik_url_pics/Maler/Werkzeuge/Schleifpapierhalter_Handschleifer3.jpeg
+@Maler_Werkzeuge.Schleifpapierhalter_Handschleifer3: @diagnostik_image_pics(@diagnostik_url_pics,Maler/Werkzeuge/Schleifpapierhalter_Handschleifer3.jpeg,@0)
+
+@Maler_Werkzeuge.Varioflies_M120_pro_2.src: @diagnostik_url_pics/Maler/Werkzeuge/Varioflies_M120_pro_2.jpeg
+@Maler_Werkzeuge.Varioflies_M120_pro_2: @diagnostik_image_pics(@diagnostik_url_pics,Maler/Werkzeuge/Varioflies_M120_pro_2.jpeg,@0)
+
+@Maler_Werkzeuge.Schabloniermesser_Set3.src: @diagnostik_url_pics/Maler/Werkzeuge/Schabloniermesser_Set3.jpeg
+@Maler_Werkzeuge.Schabloniermesser_Set3: @diagnostik_image_pics(@diagnostik_url_pics,Maler/Werkzeuge/Schabloniermesser_Set3.jpeg,@0)
+
+@Maler_Werkzeuge.Stahllineal_8zoll.src: @diagnostik_url_pics/Maler/Werkzeuge/Stahllineal_8zoll.jpeg
+@Maler_Werkzeuge.Stahllineal_8zoll: @diagnostik_image_pics(@diagnostik_url_pics,Maler/Werkzeuge/Stahllineal_8zoll.jpeg,@0)
+
+@Maler_Werkzeuge.HeizkoerperPinsel.src: @diagnostik_url_pics/Maler/Werkzeuge/HeizkoerperPinsel.jpeg
+@Maler_Werkzeuge.HeizkoerperPinsel: @diagnostik_image_pics(@diagnostik_url_pics,Maler/Werkzeuge/HeizkoerperPinsel.jpeg,@0)
+
+@Maler_Werkzeuge.Klebeband_orange_goldband2.src: @diagnostik_url_pics/Maler/Werkzeuge/Klebeband_orange_goldband2.jpeg
+@Maler_Werkzeuge.Klebeband_orange_goldband2: @diagnostik_image_pics(@diagnostik_url_pics,Maler/Werkzeuge/Klebeband_orange_goldband2.jpeg,@0)
+
+@Maler_Werkzeuge.Schleifmittel_Schleifpapier2.src: @diagnostik_url_pics/Maler/Werkzeuge/Schleifmittel_Schleifpapier2.jpeg
+@Maler_Werkzeuge.Schleifmittel_Schleifpapier2: @diagnostik_image_pics(@diagnostik_url_pics,Maler/Werkzeuge/Schleifmittel_Schleifpapier2.jpeg,@0)
+
+@Maler_Werkzeuge.Schabloniermesser_Set2.src: @diagnostik_url_pics/Maler/Werkzeuge/Schabloniermesser_Set2.jpeg
+@Maler_Werkzeuge.Schabloniermesser_Set2: @diagnostik_image_pics(@diagnostik_url_pics,Maler/Werkzeuge/Schabloniermesser_Set2.jpeg,@0)
+
+@Maler_Werkzeuge.Heissluftfoehn_Geraet2.src: @diagnostik_url_pics/Maler/Werkzeuge/Heissluftfoehn_Geraet2.jpeg
+@Maler_Werkzeuge.Heissluftfoehn_Geraet2: @diagnostik_image_pics(@diagnostik_url_pics,Maler/Werkzeuge/Heissluftfoehn_Geraet2.jpeg,@0)
+
+@Maler_Werkzeuge.Ringpinsel_Gr10.src: @diagnostik_url_pics/Maler/Werkzeuge/Ringpinsel_Gr10.jpeg
+@Maler_Werkzeuge.Ringpinsel_Gr10: @diagnostik_image_pics(@diagnostik_url_pics,Maler/Werkzeuge/Ringpinsel_Gr10.jpeg,@0)
+
+@Maler_Werkzeuge.Schleifpapierhalter_Handschleifer.src: @diagnostik_url_pics/Maler/Werkzeuge/Schleifpapierhalter_Handschleifer.jpeg
+@Maler_Werkzeuge.Schleifpapierhalter_Handschleifer: @diagnostik_image_pics(@diagnostik_url_pics,Maler/Werkzeuge/Schleifpapierhalter_Handschleifer.jpeg,@0)
+
+@Maler_Werkzeuge.Naturschwaemme2.src: @diagnostik_url_pics/Maler/Werkzeuge/Naturschwaemme2.jpeg
+@Maler_Werkzeuge.Naturschwaemme2: @diagnostik_image_pics(@diagnostik_url_pics,Maler/Werkzeuge/Naturschwaemme2.jpeg,@0)
+
+@Maler_Werkzeuge.Entenfuss2.src: @diagnostik_url_pics/Maler/Werkzeuge/Entenfuss2.jpeg
+@Maler_Werkzeuge.Entenfuss2: @diagnostik_image_pics(@diagnostik_url_pics,Maler/Werkzeuge/Entenfuss2.jpeg,@0)
+
+@Maler_Werkzeuge.Schnellspachtel.src: @diagnostik_url_pics/Maler/Werkzeuge/Schnellspachtel.jpeg
+@Maler_Werkzeuge.Schnellspachtel: @diagnostik_image_pics(@diagnostik_url_pics,Maler/Werkzeuge/Schnellspachtel.jpeg,@0)
+
+@Maler_Werkzeuge.Pumpspruehflasche_2.src: @diagnostik_url_pics/Maler/Werkzeuge/Pumpspruehflasche_2.jpeg
+@Maler_Werkzeuge.Pumpspruehflasche_2: @diagnostik_image_pics(@diagnostik_url_pics,Maler/Werkzeuge/Pumpspruehflasche_2.jpeg,@0)
+
+@Maler_Werkzeuge.Tapofix_cb75_2.src: @diagnostik_url_pics/Maler/Werkzeuge/Tapofix_cb75_2.jpeg
+@Maler_Werkzeuge.Tapofix_cb75_2: @diagnostik_image_pics(@diagnostik_url_pics,Maler/Werkzeuge/Tapofix_cb75_2.jpeg,@0)
+
+@Maler_Werkzeuge.Tapofix_Tapeziergeraet4.src: @diagnostik_url_pics/Maler/Werkzeuge/Tapofix_Tapeziergeraet4.jpeg
+@Maler_Werkzeuge.Tapofix_Tapeziergeraet4: @diagnostik_image_pics(@diagnostik_url_pics,Maler/Werkzeuge/Tapofix_Tapeziergeraet4.jpeg,@0)
+
+@Maler_Werkzeuge.Abwaschbuerste2.src: @diagnostik_url_pics/Maler/Werkzeuge/Abwaschbuerste2.jpeg
+@Maler_Werkzeuge.Abwaschbuerste2: @diagnostik_image_pics(@diagnostik_url_pics,Maler/Werkzeuge/Abwaschbuerste2.jpeg,@0)
+
+@Maler_Werkzeuge.20x30_Malerwanne_Farbwanne_Lackwanne.src: @diagnostik_url_pics/Maler/Werkzeuge/20x30_Malerwanne_Farbwanne_Lackwanne.jpeg
+@Maler_Werkzeuge.20x30_Malerwanne_Farbwanne_Lackwanne: @diagnostik_image_pics(@diagnostik_url_pics,Maler/Werkzeuge/20x30_Malerwanne_Farbwanne_Lackwanne.jpeg,@0)
+
+@Maler_Werkzeuge.Streichbuerste2.src: @diagnostik_url_pics/Maler/Werkzeuge/Streichbuerste2.jpeg
+@Maler_Werkzeuge.Streichbuerste2: @diagnostik_image_pics(@diagnostik_url_pics,Maler/Werkzeuge/Streichbuerste2.jpeg,@0)
+
+@Maler_Werkzeuge.Malerspachtel2.src: @diagnostik_url_pics/Maler/Werkzeuge/Malerspachtel2.jpeg
+@Maler_Werkzeuge.Malerspachtel2: @diagnostik_image_pics(@diagnostik_url_pics,Maler/Werkzeuge/Malerspachtel2.jpeg,@0)
+
+@Maler_Werkzeuge.Heissluftfoehn_Duese_breit2.src: @diagnostik_url_pics/Maler/Werkzeuge/Heissluftfoehn_Duese_breit2.jpeg
+@Maler_Werkzeuge.Heissluftfoehn_Duese_breit2: @diagnostik_image_pics(@diagnostik_url_pics,Maler/Werkzeuge/Heissluftfoehn_Duese_breit2.jpeg,@0)
+
+@Maler_Werkzeuge.Kunststoffspachtel3.src: @diagnostik_url_pics/Maler/Werkzeuge/Kunststoffspachtel3.jpeg
+@Maler_Werkzeuge.Kunststoffspachtel3: @diagnostik_image_pics(@diagnostik_url_pics,Maler/Werkzeuge/Kunststoffspachtel3.jpeg,@0)
+
+@Maler_Werkzeuge.Heissluftfoehn_Duese_breit3.src: @diagnostik_url_pics/Maler/Werkzeuge/Heissluftfoehn_Duese_breit3.jpeg
+@Maler_Werkzeuge.Heissluftfoehn_Duese_breit3: @diagnostik_image_pics(@diagnostik_url_pics,Maler/Werkzeuge/Heissluftfoehn_Duese_breit3.jpeg,@0)
+
+@Maler_Werkzeuge.Heissluftfoehn_mit_Duese.src: @diagnostik_url_pics/Maler/Werkzeuge/Heissluftfoehn_mit_Duese.jpeg
+@Maler_Werkzeuge.Heissluftfoehn_mit_Duese: @diagnostik_image_pics(@diagnostik_url_pics,Maler/Werkzeuge/Heissluftfoehn_mit_Duese.jpeg,@0)
+
+@Maler_Werkzeuge.Pumpspruehflasche.src: @diagnostik_url_pics/Maler/Werkzeuge/Pumpspruehflasche.jpeg
+@Maler_Werkzeuge.Pumpspruehflasche: @diagnostik_image_pics(@diagnostik_url_pics,Maler/Werkzeuge/Pumpspruehflasche.jpeg,@0)
+
+@Maler_Werkzeuge.Stahllineal.src: @diagnostik_url_pics/Maler/Werkzeuge/Stahllineal.jpeg
+@Maler_Werkzeuge.Stahllineal: @diagnostik_image_pics(@diagnostik_url_pics,Maler/Werkzeuge/Stahllineal.jpeg,@0)
+
+@Maler_Werkzeuge.Schablonierpinsel.src: @diagnostik_url_pics/Maler/Werkzeuge/Schablonierpinsel.jpeg
+@Maler_Werkzeuge.Schablonierpinsel: @diagnostik_image_pics(@diagnostik_url_pics,Maler/Werkzeuge/Schablonierpinsel.jpeg,@0)
+
+@Maler_Werkzeuge.Heissluftfoehn_Geraet4.src: @diagnostik_url_pics/Maler/Werkzeuge/Heissluftfoehn_Geraet4.jpeg
+@Maler_Werkzeuge.Heissluftfoehn_Geraet4: @diagnostik_image_pics(@diagnostik_url_pics,Maler/Werkzeuge/Heissluftfoehn_Geraet4.jpeg,@0)
+
+@Maler_Werkzeuge.Raufaser2.src: @diagnostik_url_pics/Maler/Werkzeuge/Raufaser2.jpeg
+@Maler_Werkzeuge.Raufaser2: @diagnostik_image_pics(@diagnostik_url_pics,Maler/Werkzeuge/Raufaser2.jpeg,@0)
+
+@Maler_Werkzeuge.Abreisblech.src: @diagnostik_url_pics/Maler/Werkzeuge/Abreisblech.jpeg
+@Maler_Werkzeuge.Abreisblech: @diagnostik_image_pics(@diagnostik_url_pics,Maler/Werkzeuge/Abreisblech.jpeg,@0)
+
+@Maler_Werkzeuge.Malerlineal2.src: @diagnostik_url_pics/Maler/Werkzeuge/Malerlineal2.jpeg
+@Maler_Werkzeuge.Malerlineal2: @diagnostik_image_pics(@diagnostik_url_pics,Maler/Werkzeuge/Malerlineal2.jpeg,@0)
+
+@Maler_Werkzeuge.Schaumwalze.src: @diagnostik_url_pics/Maler/Werkzeuge/Schaumwalze.jpeg
+@Maler_Werkzeuge.Schaumwalze: @diagnostik_image_pics(@diagnostik_url_pics,Maler/Werkzeuge/Schaumwalze.jpeg,@0)
+
+@Maler_Werkzeuge.Ringpinsel_Set.src: @diagnostik_url_pics/Maler/Werkzeuge/Ringpinsel_Set.jpeg
+@Maler_Werkzeuge.Ringpinsel_Set: @diagnostik_image_pics(@diagnostik_url_pics,Maler/Werkzeuge/Ringpinsel_Set.jpeg,@0)
+
+@Maler_Werkzeuge.Tapofix_Tapeziergeraet3.src: @diagnostik_url_pics/Maler/Werkzeuge/Tapofix_Tapeziergeraet3.jpeg
+@Maler_Werkzeuge.Tapofix_Tapeziergeraet3: @diagnostik_image_pics(@diagnostik_url_pics,Maler/Werkzeuge/Tapofix_Tapeziergeraet3.jpeg,@0)
+
+@Maler_Werkzeuge.Japanspachtel_50mm.src: @diagnostik_url_pics/Maler/Werkzeuge/Japanspachtel_50mm.jpeg
+@Maler_Werkzeuge.Japanspachtel_50mm: @diagnostik_image_pics(@diagnostik_url_pics,Maler/Werkzeuge/Japanspachtel_50mm.jpeg,@0)
+
+@Maler_Werkzeuge.Schwingschleifer.src: @diagnostik_url_pics/Maler/Werkzeuge/Schwingschleifer.jpeg
+@Maler_Werkzeuge.Schwingschleifer: @diagnostik_image_pics(@diagnostik_url_pics,Maler/Werkzeuge/Schwingschleifer.jpeg,@0)
+
+@Maler_Werkzeuge.Schleifpapierhalter_Handschleifer5.src: @diagnostik_url_pics/Maler/Werkzeuge/Schleifpapierhalter_Handschleifer5.jpeg
+@Maler_Werkzeuge.Schleifpapierhalter_Handschleifer5: @diagnostik_image_pics(@diagnostik_url_pics,Maler/Werkzeuge/Schleifpapierhalter_Handschleifer5.jpeg,@0)
+
+@Maler_Werkzeuge.Ruehrwerk_stehend.src: @diagnostik_url_pics/Maler/Werkzeuge/Ruehrwerk_stehend.jpeg
+@Maler_Werkzeuge.Ruehrwerk_stehend: @diagnostik_image_pics(@diagnostik_url_pics,Maler/Werkzeuge/Ruehrwerk_stehend.jpeg,@0)
+
+@Maler_Werkzeuge.Heissluftfoehn_Koffer_offen_altern.src: @diagnostik_url_pics/Maler/Werkzeuge/Heissluftfoehn_Koffer_offen_altern.jpeg
+@Maler_Werkzeuge.Heissluftfoehn_Koffer_offen_altern: @diagnostik_image_pics(@diagnostik_url_pics,Maler/Werkzeuge/Heissluftfoehn_Koffer_offen_altern.jpeg,@0)
+
+@Maler_Werkzeuge.Ruehrwerk_liegend.src: @diagnostik_url_pics/Maler/Werkzeuge/Ruehrwerk_liegend.jpeg
+@Maler_Werkzeuge.Ruehrwerk_liegend: @diagnostik_image_pics(@diagnostik_url_pics,Maler/Werkzeuge/Ruehrwerk_liegend.jpeg,@0)
+
+@Maler_Werkzeuge.Heissluftfoehn_Geraet_altern3.src: @diagnostik_url_pics/Maler/Werkzeuge/Heissluftfoehn_Geraet_altern3.jpeg
+@Maler_Werkzeuge.Heissluftfoehn_Geraet_altern3: @diagnostik_image_pics(@diagnostik_url_pics,Maler/Werkzeuge/Heissluftfoehn_Geraet_altern3.jpeg,@0)
+
+@Maler_Werkzeuge.Stahllineal_12zoll.src: @diagnostik_url_pics/Maler/Werkzeuge/Stahllineal_12zoll.jpeg
+@Maler_Werkzeuge.Stahllineal_12zoll: @diagnostik_image_pics(@diagnostik_url_pics,Maler/Werkzeuge/Stahllineal_12zoll.jpeg,@0)
+
+@Maler_Werkzeuge.Heiluftfoehn_Geraet.src: @diagnostik_url_pics/Maler/Werkzeuge/Heiluftfoehn_Geraet.jpeg
+@Maler_Werkzeuge.Heiluftfoehn_Geraet: @diagnostik_image_pics(@diagnostik_url_pics,Maler/Werkzeuge/Heiluftfoehn_Geraet.jpeg,@0)
+
+@Maler_Werkzeuge.Entenfuss.src: @diagnostik_url_pics/Maler/Werkzeuge/Entenfuss.jpeg
+@Maler_Werkzeuge.Entenfuss: @diagnostik_image_pics(@diagnostik_url_pics,Maler/Werkzeuge/Entenfuss.jpeg,@0)
+
+@Maler_Werkzeuge.tapofix_cb75_8.src: @diagnostik_url_pics/Maler/Werkzeuge/tapofix_cb75_8.jpeg
+@Maler_Werkzeuge.tapofix_cb75_8: @diagnostik_image_pics(@diagnostik_url_pics,Maler/Werkzeuge/tapofix_cb75_8.jpeg,@0)
+
+@Maler_Werkzeuge.Japanspachtel_80mm.src: @diagnostik_url_pics/Maler/Werkzeuge/Japanspachtel_80mm.jpeg
+@Maler_Werkzeuge.Japanspachtel_80mm: @diagnostik_image_pics(@diagnostik_url_pics,Maler/Werkzeuge/Japanspachtel_80mm.jpeg,@0)
+
+@Maler_Werkzeuge.Handschleifklotz2.src: @diagnostik_url_pics/Maler/Werkzeuge/Handschleifklotz2.jpeg
+@Maler_Werkzeuge.Handschleifklotz2: @diagnostik_image_pics(@diagnostik_url_pics,Maler/Werkzeuge/Handschleifklotz2.jpeg,@0)
+
+@Maler_Werkzeuge.Schleifgeraet_Excenter120_Staubsack.src: @diagnostik_url_pics/Maler/Werkzeuge/Schleifgeraet_Excenter120_Staubsack.jpeg
+@Maler_Werkzeuge.Schleifgeraet_Excenter120_Staubsack: @diagnostik_image_pics(@diagnostik_url_pics,Maler/Werkzeuge/Schleifgeraet_Excenter120_Staubsack.jpeg,@0)
+
 @Maler_Werkzeuge.15x30_Malerwanne2.src: @diagnostik_url_pics/Maler/Werkzeuge/15x30_Malerwanne2.jpeg
 @Maler_Werkzeuge.15x30_Malerwanne2: @diagnostik_image_pics(@diagnostik_url_pics,Maler/Werkzeuge/15x30_Malerwanne2.jpeg,@0)
+
+@Maler_Werkzeuge.tapofix_cb75_4.src: @diagnostik_url_pics/Maler/Werkzeuge/tapofix_cb75_4.jpeg
+@Maler_Werkzeuge.tapofix_cb75_4: @diagnostik_image_pics(@diagnostik_url_pics,Maler/Werkzeuge/tapofix_cb75_4.jpeg,@0)
+
+@Maler_Werkzeuge.Schleifgeraet_Staubsack2.src: @diagnostik_url_pics/Maler/Werkzeuge/Schleifgeraet_Staubsack2.jpeg
+@Maler_Werkzeuge.Schleifgeraet_Staubsack2: @diagnostik_image_pics(@diagnostik_url_pics,Maler/Werkzeuge/Schleifgeraet_Staubsack2.jpeg,@0)
+
+@Maler_Werkzeuge.Ringpinsel_Gr10_2.src: @diagnostik_url_pics/Maler/Werkzeuge/Ringpinsel_Gr10_2.jpeg
+@Maler_Werkzeuge.Ringpinsel_Gr10_2: @diagnostik_image_pics(@diagnostik_url_pics,Maler/Werkzeuge/Ringpinsel_Gr10_2.jpeg,@0)
+
+@Maler_Werkzeuge.Schlagschnur.src: @diagnostik_url_pics/Maler/Werkzeuge/Schlagschnur.jpeg
+@Maler_Werkzeuge.Schlagschnur: @diagnostik_image_pics(@diagnostik_url_pics,Maler/Werkzeuge/Schlagschnur.jpeg,@0)
+
+@Maler_Werkzeuge.Glaettkelle.src: @diagnostik_url_pics/Maler/Werkzeuge/Glaettkelle.jpeg
+@Maler_Werkzeuge.Glaettkelle: @diagnostik_image_pics(@diagnostik_url_pics,Maler/Werkzeuge/Glaettkelle.jpeg,@0)
+
+@Maler_Werkzeuge.Heissluftfoehn_Koffer_offen_leer.src: @diagnostik_url_pics/Maler/Werkzeuge/Heissluftfoehn_Koffer_offen_leer.jpeg
+@Maler_Werkzeuge.Heissluftfoehn_Koffer_offen_leer: @diagnostik_image_pics(@diagnostik_url_pics,Maler/Werkzeuge/Heissluftfoehn_Koffer_offen_leer.jpeg,@0)
+
+@Maler_Werkzeuge.Schleifgeraet_Staubsack_altern.src: @diagnostik_url_pics/Maler/Werkzeuge/Schleifgeraet_Staubsack_altern.jpeg
+@Maler_Werkzeuge.Schleifgeraet_Staubsack_altern: @diagnostik_image_pics(@diagnostik_url_pics,Maler/Werkzeuge/Schleifgeraet_Staubsack_altern.jpeg,@0)
+
+@Maler_Werkzeuge.Schwingschleifer3.src: @diagnostik_url_pics/Maler/Werkzeuge/Schwingschleifer3.jpeg
+@Maler_Werkzeuge.Schwingschleifer3: @diagnostik_image_pics(@diagnostik_url_pics,Maler/Werkzeuge/Schwingschleifer3.jpeg,@0)
+
+@Maler_Werkzeuge.Klebeband_orange_goldband.src: @diagnostik_url_pics/Maler/Werkzeuge/Klebeband_orange_goldband.jpeg
+@Maler_Werkzeuge.Klebeband_orange_goldband: @diagnostik_image_pics(@diagnostik_url_pics,Maler/Werkzeuge/Klebeband_orange_goldband.jpeg,@0)
+
+@Maler_Werkzeuge.Malerspachtel3.src: @diagnostik_url_pics/Maler/Werkzeuge/Malerspachtel3.jpeg
+@Maler_Werkzeuge.Malerspachtel3: @diagnostik_image_pics(@diagnostik_url_pics,Maler/Werkzeuge/Malerspachtel3.jpeg,@0)
+
+@Maler_Werkzeuge.Ruehrholz.src: @diagnostik_url_pics/Maler/Werkzeuge/Ruehrholz.jpeg
+@Maler_Werkzeuge.Ruehrholz: @diagnostik_image_pics(@diagnostik_url_pics,Maler/Werkzeuge/Ruehrholz.jpeg,@0)
+
+@Maler_Werkzeuge.Cuttermesser_Abbrechklingen2.src: @diagnostik_url_pics/Maler/Werkzeuge/Cuttermesser_Abbrechklingen2.jpeg
+@Maler_Werkzeuge.Cuttermesser_Abbrechklingen2: @diagnostik_image_pics(@diagnostik_url_pics,Maler/Werkzeuge/Cuttermesser_Abbrechklingen2.jpeg,@0)
+
+@Maler_Werkzeuge.Kunststoffspachtel5.src: @diagnostik_url_pics/Maler/Werkzeuge/Kunststoffspachtel5.jpeg
+@Maler_Werkzeuge.Kunststoffspachtel5: @diagnostik_image_pics(@diagnostik_url_pics,Maler/Werkzeuge/Kunststoffspachtel5.jpeg,@0)
+
+@Maler_Werkzeuge.Heissluftfoehn_Duese_schmal4.src: @diagnostik_url_pics/Maler/Werkzeuge/Heissluftfoehn_Duese_schmal4.jpeg
+@Maler_Werkzeuge.Heissluftfoehn_Duese_schmal4: @diagnostik_image_pics(@diagnostik_url_pics,Maler/Werkzeuge/Heissluftfoehn_Duese_schmal4.jpeg,@0)
+
+@Maler_Werkzeuge.Spitzpinsel_set.src: @diagnostik_url_pics/Maler/Werkzeuge/Spitzpinsel_set.jpeg
+@Maler_Werkzeuge.Spitzpinsel_set: @diagnostik_image_pics(@diagnostik_url_pics,Maler/Werkzeuge/Spitzpinsel_set.jpeg,@0)
+
+@Maler_Werkzeuge.Muellsaecke.src: @diagnostik_url_pics/Maler/Werkzeuge/Muellsaecke.jpeg
+@Maler_Werkzeuge.Muellsaecke: @diagnostik_image_pics(@diagnostik_url_pics,Maler/Werkzeuge/Muellsaecke.jpeg,@0)
+
+@Maler_Werkzeuge.Schleifgeraet_Excenter120_Staubsack4.src: @diagnostik_url_pics/Maler/Werkzeuge/Schleifgeraet_Excenter120_Staubsack4.jpeg
+@Maler_Werkzeuge.Schleifgeraet_Excenter120_Staubsack4: @diagnostik_image_pics(@diagnostik_url_pics,Maler/Werkzeuge/Schleifgeraet_Excenter120_Staubsack4.jpeg,@0)
+
+@Maler_Werkzeuge.Japanspachtel_Stukateurkelle.src: @diagnostik_url_pics/Maler/Werkzeuge/Japanspachtel_Stukateurkelle.jpeg
+@Maler_Werkzeuge.Japanspachtel_Stukateurkelle: @diagnostik_image_pics(@diagnostik_url_pics,Maler/Werkzeuge/Japanspachtel_Stukateurkelle.jpeg,@0)
+
+@Maler_Werkzeuge.Heizkoerperwalze.src: @diagnostik_url_pics/Maler/Werkzeuge/Heizkoerperwalze.jpeg
+@Maler_Werkzeuge.Heizkoerperwalze: @diagnostik_image_pics(@diagnostik_url_pics,Maler/Werkzeuge/Heizkoerperwalze.jpeg,@0)
+
+@Maler_Werkzeuge.Cuttermesser.src: @diagnostik_url_pics/Maler/Werkzeuge/Cuttermesser.jpeg
+@Maler_Werkzeuge.Cuttermesser: @diagnostik_image_pics(@diagnostik_url_pics,Maler/Werkzeuge/Cuttermesser.jpeg,@0)
+
+@Maler_Werkzeuge.Cuttermesser_Abbrechklingen.src: @diagnostik_url_pics/Maler/Werkzeuge/Cuttermesser_Abbrechklingen.jpeg
+@Maler_Werkzeuge.Cuttermesser_Abbrechklingen: @diagnostik_image_pics(@diagnostik_url_pics,Maler/Werkzeuge/Cuttermesser_Abbrechklingen.jpeg,@0)
+
+@Maler_Werkzeuge.Heissluftfoehn_Koffer_altern.src: @diagnostik_url_pics/Maler/Werkzeuge/Heissluftfoehn_Koffer_altern.jpeg
+@Maler_Werkzeuge.Heissluftfoehn_Koffer_altern: @diagnostik_image_pics(@diagnostik_url_pics,Maler/Werkzeuge/Heissluftfoehn_Koffer_altern.jpeg,@0)
+
+@Maler_Werkzeuge.Kunststoffspachtel2.src: @diagnostik_url_pics/Maler/Werkzeuge/Kunststoffspachtel2.jpeg
+@Maler_Werkzeuge.Kunststoffspachtel2: @diagnostik_image_pics(@diagnostik_url_pics,Maler/Werkzeuge/Kunststoffspachtel2.jpeg,@0)
+
+@Maler_Werkzeuge.Schleifgeraet_Excenter120_2.src: @diagnostik_url_pics/Maler/Werkzeuge/Schleifgeraet_Excenter120_2.jpeg
+@Maler_Werkzeuge.Schleifgeraet_Excenter120_2: @diagnostik_image_pics(@diagnostik_url_pics,Maler/Werkzeuge/Schleifgeraet_Excenter120_2.jpeg,@0)
+
+@Maler_Werkzeuge.Stahllineal_150.src: @diagnostik_url_pics/Maler/Werkzeuge/Stahllineal_150.jpeg
+@Maler_Werkzeuge.Stahllineal_150: @diagnostik_image_pics(@diagnostik_url_pics,Maler/Werkzeuge/Stahllineal_150.jpeg,@0)
+
+@Maler_Werkzeuge.Schwingschleifer_Daten.src: @diagnostik_url_pics/Maler/Werkzeuge/Schwingschleifer_Daten.jpeg
+@Maler_Werkzeuge.Schwingschleifer_Daten: @diagnostik_image_pics(@diagnostik_url_pics,Maler/Werkzeuge/Schwingschleifer_Daten.jpeg,@0)
+
+@Maler_Werkzeuge.Malerlineal.src: @diagnostik_url_pics/Maler/Werkzeuge/Malerlineal.jpeg
+@Maler_Werkzeuge.Malerlineal: @diagnostik_image_pics(@diagnostik_url_pics,Maler/Werkzeuge/Malerlineal.jpeg,@0)
+
+@Maler_Werkzeuge.Handschleifklotz.src: @diagnostik_url_pics/Maler/Werkzeuge/Handschleifklotz.jpeg
+@Maler_Werkzeuge.Handschleifklotz: @diagnostik_image_pics(@diagnostik_url_pics,Maler/Werkzeuge/Handschleifklotz.jpeg,@0)
+
+@Maler_Werkzeuge.20x30_Malerwanne_Farbwanne_Lackwanne2.src: @diagnostik_url_pics/Maler/Werkzeuge/20x30_Malerwanne_Farbwanne_Lackwanne2.jpeg
+@Maler_Werkzeuge.20x30_Malerwanne_Farbwanne_Lackwanne2: @diagnostik_image_pics(@diagnostik_url_pics,Maler/Werkzeuge/20x30_Malerwanne_Farbwanne_Lackwanne2.jpeg,@0)
+
+@Maler_Werkzeuge.Ruehrwerk_Seite.src: @diagnostik_url_pics/Maler/Werkzeuge/Ruehrwerk_Seite.jpeg
+@Maler_Werkzeuge.Ruehrwerk_Seite: @diagnostik_image_pics(@diagnostik_url_pics,Maler/Werkzeuge/Ruehrwerk_Seite.jpeg,@0)
 
 @Maler_Planung.Uebung3_Abbildung.src: @diagnostik_url_pics/Maler/Planung/Uebung3_Abbildung.jpg
 @Maler_Planung.Uebung3_Abbildung: @diagnostik_image_pics(@diagnostik_url_pics,Maler/Planung/Uebung3_Abbildung.jpg,@0)
@@ -570,11 +1110,191 @@ Im Nachfolgenden sind alle Bilder aller Bereiche und passende Befehle aufgeliste
 
 |Bild|Name|Befehl|
 |---|---|---|
+|@Maler_Werkzeuge.Glaettkelle_Entenfuf(10)|_Glaettkelle Entenfuf_|`@Maler_Werkzeuge.Glaettkelle_Entenfuf(10)`|
+|@Maler_Werkzeuge.Kiste_Ruehrholz(10)|_Kiste Ruehrholz_|`@Maler_Werkzeuge.Kiste_Ruehrholz(10)`|
+|@Maler_Werkzeuge.Glaettkelle2(10)|_Glaettkelle2_|`@Maler_Werkzeuge.Glaettkelle2(10)`|
+|@Maler_Werkzeuge.Schleifgeraet_Excenter120_Staubsack_2(10)|_Schleifgeraet Excenter120 Staubsack 2_|`@Maler_Werkzeuge.Schleifgeraet_Excenter120_Staubsack_2(10)`|
+|@Maler_Werkzeuge.Ruehrwerk_Ruehrquirl_liegend2(10)|_Ruehrwerk Ruehrquirl liegend2_|`@Maler_Werkzeuge.Ruehrwerk_Ruehrquirl_liegend2(10)`|
+|@Maler_Werkzeuge.Heissluftfoehn_Geraet_altern(10)|_Heissluftfoehn Geraet altern_|`@Maler_Werkzeuge.Heissluftfoehn_Geraet_altern(10)`|
+|@Maler_Werkzeuge.Ringpinsel_Gr30(10)|_Ringpinsel Gr30_|`@Maler_Werkzeuge.Ringpinsel_Gr30(10)`|
+|@Maler_Werkzeuge.Schutzbrille2(10)|_Schutzbrille2_|`@Maler_Werkzeuge.Schutzbrille2(10)`|
+|@Maler_Werkzeuge.Schleifpapierhalter_Handschleifer4(10)|_Schleifpapierhalter Handschleifer4_|`@Maler_Werkzeuge.Schleifpapierhalter_Handschleifer4(10)`|
+|@Maler_Werkzeuge.Schleifplatte_105_Delta_Schutzauflage2(10)|_Schleifplatte 105 Delta Schutzauflage2_|`@Maler_Werkzeuge.Schleifplatte_105_Delta_Schutzauflage2(10)`|
+|@Maler_Werkzeuge.Papierrolle2(10)|_Papierrolle2_|`@Maler_Werkzeuge.Papierrolle2(10)`|
+|@Maler_Werkzeuge.Kunststoffspachtel(10)|_Kunststoffspachtel_|`@Maler_Werkzeuge.Kunststoffspachtel(10)`|
+|@Maler_Werkzeuge.Schraegstrichzieher(10)|_Schraegstrichzieher_|`@Maler_Werkzeuge.Schraegstrichzieher(10)`|
+|@Maler_Werkzeuge.Stahllineal_6zoll(10)|_Stahllineal 6zoll_|`@Maler_Werkzeuge.Stahllineal_6zoll(10)`|
+|@Maler_Werkzeuge.Flachpinsel_Set2(10)|_Flachpinsel Set2_|`@Maler_Werkzeuge.Flachpinsel_Set2(10)`|
+|@Maler_Werkzeuge.Kunststoffspachtel4(10)|_Kunststoffspachtel4_|`@Maler_Werkzeuge.Kunststoffspachtel4(10)`|
+|@Maler_Werkzeuge.Schleifgeraet_Staubsack(10)|_Schleifgeraet Staubsack_|`@Maler_Werkzeuge.Schleifgeraet_Staubsack(10)`|
+|@Maler_Werkzeuge.Stahllineal_200(10)|_Stahllineal 200_|`@Maler_Werkzeuge.Stahllineal_200(10)`|
+|@Maler_Werkzeuge.tapofix_cb75_5(10)|_tapofix cb75 5_|`@Maler_Werkzeuge.tapofix_cb75_5(10)`|
+|@Maler_Werkzeuge.Schwingschleifer_Schleifklotz(10)|_Schwingschleifer Schleifklotz_|`@Maler_Werkzeuge.Schwingschleifer_Schleifklotz(10)`|
+|@Maler_Werkzeuge.Ruehrwerk_Ruehrquirl(10)|_Ruehrwerk Ruehrquirl_|`@Maler_Werkzeuge.Ruehrwerk_Ruehrquirl(10)`|
+|@Maler_Werkzeuge.Malerlineal3(10)|_Malerlineal3_|`@Maler_Werkzeuge.Malerlineal3(10)`|
 |@Maler_Werkzeuge.20x30_Malerwanne2(10)|_20x30 Malerwanne2_|`@Maler_Werkzeuge.20x30_Malerwanne2(10)`|
+|@Maler_Werkzeuge.Heissluftfoehn_Duese_schmal2(10)|_Heissluftfoehn Duese schmal2_|`@Maler_Werkzeuge.Heissluftfoehn_Duese_schmal2(10)`|
+|@Maler_Werkzeuge.Schwingschleifer_Filterbeutel2(10)|_Schwingschleifer Filterbeutel2_|`@Maler_Werkzeuge.Schwingschleifer_Filterbeutel2(10)`|
+|@Maler_Werkzeuge.Heissluftfoehn_Duese_breit(10)|_Heissluftfoehn Duese breit_|`@Maler_Werkzeuge.Heissluftfoehn_Duese_breit(10)`|
+|@Maler_Werkzeuge.Papierrolle(10)|_Papierrolle_|`@Maler_Werkzeuge.Papierrolle(10)`|
+|@Maler_Werkzeuge.Ringpinsel_Groesse4(10)|_Ringpinsel Groesse4_|`@Maler_Werkzeuge.Ringpinsel_Groesse4(10)`|
+|@Maler_Werkzeuge.Schleifplatte_105_Delta(10)|_Schleifplatte 105 Delta_|`@Maler_Werkzeuge.Schleifplatte_105_Delta(10)`|
+|@Maler_Werkzeuge.Streichbuerste(10)|_Streichbuerste_|`@Maler_Werkzeuge.Streichbuerste(10)`|
+|@Maler_Werkzeuge.Schaumwalze2(10)|_Schaumwalze2_|`@Maler_Werkzeuge.Schaumwalze2(10)`|
+|@Maler_Werkzeuge.Tapezierbuerste(10)|_Tapezierbuerste_|`@Maler_Werkzeuge.Tapezierbuerste(10)`|
+|@Maler_Werkzeuge.Handschleifklotz3(10)|_Handschleifklotz3_|`@Maler_Werkzeuge.Handschleifklotz3(10)`|
+|@Maler_Werkzeuge.Ruehrwerk_Ruehrquirl_liegend(10)|_Ruehrwerk Ruehrquirl liegend_|`@Maler_Werkzeuge.Ruehrwerk_Ruehrquirl_liegend(10)`|
+|@Maler_Werkzeuge.Heizkoerperroller(10)|_Heizkoerperroller_|`@Maler_Werkzeuge.Heizkoerperroller(10)`|
+|@Maler_Werkzeuge.Heissluftfoehn_Geraet5(10)|_Heissluftfoehn Geraet5_|`@Maler_Werkzeuge.Heissluftfoehn_Geraet5(10)`|
+|@Maler_Werkzeuge.Schwingschleifer_Filterbeutel3(10)|_Schwingschleifer Filterbeutel3_|`@Maler_Werkzeuge.Schwingschleifer_Filterbeutel3(10)`|
+|@Maler_Werkzeuge.Pausbeutel(10)|_Pausbeutel_|`@Maler_Werkzeuge.Pausbeutel(10)`|
+|@Maler_Werkzeuge.Stahllineal2(10)|_Stahllineal2_|`@Maler_Werkzeuge.Stahllineal2(10)`|
+|@Maler_Werkzeuge.Abwaschbuerste(10)|_Abwaschbuerste_|`@Maler_Werkzeuge.Abwaschbuerste(10)`|
+|@Maler_Werkzeuge.Kartuschenpresse(10)|_Kartuschenpresse_|`@Maler_Werkzeuge.Kartuschenpresse(10)`|
+|@Maler_Werkzeuge.Schabloniermesser_Set(10)|_Schabloniermesser Set_|`@Maler_Werkzeuge.Schabloniermesser_Set(10)`|
+|@Maler_Werkzeuge.Japanspachtel_Set(10)|_Japanspachtel Set_|`@Maler_Werkzeuge.Japanspachtel_Set(10)`|
+|@Maler_Werkzeuge.Heissluftfoehn_Geraet3(10)|_Heissluftfoehn Geraet3_|`@Maler_Werkzeuge.Heissluftfoehn_Geraet3(10)`|
+|@Maler_Werkzeuge.Heissluftfoehn_Koffer(10)|_Heissluftfoehn Koffer_|`@Maler_Werkzeuge.Heissluftfoehn_Koffer(10)`|
+|@Maler_Werkzeuge.Schutzauflage_Schwingschleifer(10)|_Schutzauflage Schwingschleifer_|`@Maler_Werkzeuge.Schutzauflage_Schwingschleifer(10)`|
+|@Maler_Werkzeuge.Gliedermassstab_Zollstock(10)|_Gliedermassstab Zollstock_|`@Maler_Werkzeuge.Gliedermassstab_Zollstock(10)`|
+|@Maler_Werkzeuge.Heissluftfoehn_Duese_schmal(10)|_Heissluftfoehn Duese schmal_|`@Maler_Werkzeuge.Heissluftfoehn_Duese_schmal(10)`|
+|@Maler_Werkzeuge.Eimer_Wasser(10)|_Eimer Wasser_|`@Maler_Werkzeuge.Eimer_Wasser(10)`|
+|@Maler_Werkzeuge.Schwingschleifer2(10)|_Schwingschleifer2_|`@Maler_Werkzeuge.Schwingschleifer2(10)`|
+|@Maler_Werkzeuge.Gliedermassstab_Zollstock2(10)|_Gliedermassstab Zollstock2_|`@Maler_Werkzeuge.Gliedermassstab_Zollstock2(10)`|
+|@Maler_Werkzeuge.Klebeband_orange_goldband_breit(10)|_Klebeband orange goldband breit_|`@Maler_Werkzeuge.Klebeband_orange_goldband_breit(10)`|
+|@Maler_Werkzeuge.Schleifmittel_Schleifpapier(10)|_Schleifmittel Schleifpapier_|`@Maler_Werkzeuge.Schleifmittel_Schleifpapier(10)`|
 |@Maler_Werkzeuge.20x30_Malerwanne(10)|_20x30 Malerwanne_|`@Maler_Werkzeuge.20x30_Malerwanne(10)`|
+|@Maler_Werkzeuge.Heizkoerperpinsel4(10)|_Heizkoerperpinsel4_|`@Maler_Werkzeuge.Heizkoerperpinsel4(10)`|
+|@Maler_Werkzeuge.Ringpinsel_Gr25(10)|_Ringpinsel Gr25_|`@Maler_Werkzeuge.Ringpinsel_Gr25(10)`|
+|@Maler_Werkzeuge.Entenfuss3(10)|_Entenfuss3_|`@Maler_Werkzeuge.Entenfuss3(10)`|
+|@Maler_Werkzeuge.Winkel(10)|_Winkel_|`@Maler_Werkzeuge.Winkel(10)`|
+|@Maler_Werkzeuge.Schleifpapierhalter_Handschleifer2(10)|_Schleifpapierhalter Handschleifer2_|`@Maler_Werkzeuge.Schleifpapierhalter_Handschleifer2(10)`|
+|@Maler_Werkzeuge.Schleifpapierhalter_Handschleifer6(10)|_Schleifpapierhalter Handschleifer6_|`@Maler_Werkzeuge.Schleifpapierhalter_Handschleifer6(10)`|
+|@Maler_Werkzeuge.Zirkel3(10)|_Zirkel3_|`@Maler_Werkzeuge.Zirkel3(10)`|
+|@Maler_Werkzeuge.Schleifgeraet_Excenter120_Staubsack3(10)|_Schleifgeraet Excenter120 Staubsack3_|`@Maler_Werkzeuge.Schleifgeraet_Excenter120_Staubsack3(10)`|
+|@Maler_Werkzeuge.Malerstock(10)|_Malerstock_|`@Maler_Werkzeuge.Malerstock(10)`|
+|@Maler_Werkzeuge.Heizkoerperpinsel2(10)|_Heizkoerperpinsel2_|`@Maler_Werkzeuge.Heizkoerperpinsel2(10)`|
+|@Maler_Werkzeuge.Schutzauflage_Schwingschleifer2(10)|_Schutzauflage Schwingschleifer2_|`@Maler_Werkzeuge.Schutzauflage_Schwingschleifer2(10)`|
+|@Maler_Werkzeuge.Zirkel(10)|_Zirkel_|`@Maler_Werkzeuge.Zirkel(10)`|
+|@Maler_Werkzeuge.tapofix_cb75_7(10)|_tapofix cb75 7_|`@Maler_Werkzeuge.tapofix_cb75_7(10)`|
+|@Maler_Werkzeuge.tapofix_cb75_6(10)|_tapofix cb75 6_|`@Maler_Werkzeuge.tapofix_cb75_6(10)`|
+|@Maler_Werkzeuge.Werkzeugkoffer(10)|_Werkzeugkoffer_|`@Maler_Werkzeuge.Werkzeugkoffer(10)`|
+|@Maler_Werkzeuge.Schutzbrille(10)|_Schutzbrille_|`@Maler_Werkzeuge.Schutzbrille(10)`|
+|@Maler_Werkzeuge.Schleifplatte_105_Delta2(10)|_Schleifplatte 105 Delta2_|`@Maler_Werkzeuge.Schleifplatte_105_Delta2(10)`|
+|@Maler_Werkzeuge.Stahllineal_300(10)|_Stahllineal 300_|`@Maler_Werkzeuge.Stahllineal_300(10)`|
+|@Maler_Werkzeuge.Malerstock2(10)|_Malerstock2_|`@Maler_Werkzeuge.Malerstock2(10)`|
+|@Maler_Werkzeuge.Tapofix_Tapeziergeraet2(10)|_Tapofix Tapeziergeraet2_|`@Maler_Werkzeuge.Tapofix_Tapeziergeraet2(10)`|
+|@Maler_Werkzeuge.Tapofix_Tapeziergeraet(10)|_Tapofix Tapeziergeraet_|`@Maler_Werkzeuge.Tapofix_Tapeziergeraet(10)`|
+|@Maler_Werkzeuge.Heissluftfoehn_Duese_schmal3(10)|_Heissluftfoehn Duese schmal3_|`@Maler_Werkzeuge.Heissluftfoehn_Duese_schmal3(10)`|
 |@Maler_Werkzeuge.Abbrechklingen(10)|_Abbrechklingen_|`@Maler_Werkzeuge.Abbrechklingen(10)`|
+|@Maler_Werkzeuge.Japanspachtel_120mm(10)|_Japanspachtel 120mm_|`@Maler_Werkzeuge.Japanspachtel_120mm(10)`|
+|@Maler_Werkzeuge.Heissluftfoehn_Geraet_altern2(10)|_Heissluftfoehn Geraet altern2_|`@Maler_Werkzeuge.Heissluftfoehn_Geraet_altern2(10)`|
+|@Maler_Werkzeuge.Schwingschleifer_Filterbeutel(10)|_Schwingschleifer Filterbeutel_|`@Maler_Werkzeuge.Schwingschleifer_Filterbeutel(10)`|
+|@Maler_Werkzeuge.Heissluftfoehn_Koffer_offen(10)|_Heissluftfoehn Koffer offen_|`@Maler_Werkzeuge.Heissluftfoehn_Koffer_offen(10)`|
+|@Maler_Werkzeuge.Schleifplatte_105_Delta_Schutzauflage(10)|_Schleifplatte 105 Delta Schutzauflage_|`@Maler_Werkzeuge.Schleifplatte_105_Delta_Schutzauflage(10)`|
+|@Maler_Werkzeuge.tapofix_cb75_3(10)|_tapofix cb75 3_|`@Maler_Werkzeuge.tapofix_cb75_3(10)`|
+|@Maler_Werkzeuge.Japanspachtel_100mm(10)|_Japanspachtel 100mm_|`@Maler_Werkzeuge.Japanspachtel_100mm(10)`|
+|@Maler_Werkzeuge.Japanspachtel_Set2(10)|_Japanspachtel Set2_|`@Maler_Werkzeuge.Japanspachtel_Set2(10)`|
+|@Maler_Werkzeuge.15x30_Malerwanne_Farbwanne_Lackwanne(10)|_15x30 Malerwanne Farbwanne Lackwanne_|`@Maler_Werkzeuge.15x30_Malerwanne_Farbwanne_Lackwanne(10)`|
+|@Maler_Werkzeuge.Tapofix_Tapeziergeraet_Meterzaehler2(10)|_Tapofix Tapeziergeraet Meterzaehler2_|`@Maler_Werkzeuge.Tapofix_Tapeziergeraet_Meterzaehler2(10)`|
+|@Maler_Werkzeuge.Zirkel2(10)|_Zirkel2_|`@Maler_Werkzeuge.Zirkel2(10)`|
+|@Maler_Werkzeuge.Heizkoerperpinsel3(10)|_Heizkoerperpinsel3_|`@Maler_Werkzeuge.Heizkoerperpinsel3(10)`|
+|@Maler_Werkzeuge.Schlagschnur2(10)|_Schlagschnur2_|`@Maler_Werkzeuge.Schlagschnur2(10)`|
+|@Maler_Werkzeuge.Naturschwaemme(10)|_Naturschwaemme_|`@Maler_Werkzeuge.Naturschwaemme(10)`|
+|@Maler_Werkzeuge.Schleifgeraet_Excenter120(10)|_Schleifgeraet Excenter120_|`@Maler_Werkzeuge.Schleifgeraet_Excenter120(10)`|
+|@Maler_Werkzeuge.Tapofix_Tapeziergeraet_Meterzaehler(10)|_Tapofix Tapeziergeraet Meterzaehler_|`@Maler_Werkzeuge.Tapofix_Tapeziergeraet_Meterzaehler(10)`|
+|@Maler_Werkzeuge.Flachpinsel_Set(10)|_Flachpinsel Set_|`@Maler_Werkzeuge.Flachpinsel_Set(10)`|
+|@Maler_Werkzeuge.Winkel2(10)|_Winkel2_|`@Maler_Werkzeuge.Winkel2(10)`|
 |@Maler_Werkzeuge.15x30_Malerwanne(10)|_15x30 Malerwanne_|`@Maler_Werkzeuge.15x30_Malerwanne(10)`|
+|@Maler_Werkzeuge.tapofix_cb75(10)|_tapofix cb75_|`@Maler_Werkzeuge.tapofix_cb75(10)`|
+|@Maler_Werkzeuge.tapofix_cb75_9(10)|_tapofix cb75 9_|`@Maler_Werkzeuge.tapofix_cb75_9(10)`|
+|@Maler_Werkzeuge.15x30_Malerwanne_Farbwanne_Lackwanne2(10)|_15x30 Malerwanne Farbwanne Lackwanne2_|`@Maler_Werkzeuge.15x30_Malerwanne_Farbwanne_Lackwanne2(10)`|
+|@Maler_Werkzeuge.Cuttermesser2(10)|_Cuttermesser2_|`@Maler_Werkzeuge.Cuttermesser2(10)`|
+|@Maler_Werkzeuge.Schraegstrichzieher2(10)|_Schraegstrichzieher2_|`@Maler_Werkzeuge.Schraegstrichzieher2(10)`|
+|@Maler_Werkzeuge.Malerspachtel(10)|_Malerspachtel_|`@Maler_Werkzeuge.Malerspachtel(10)`|
+|@Maler_Werkzeuge.Raufaser_25(10)|_Raufaser 25_|`@Maler_Werkzeuge.Raufaser_25(10)`|
+|@Maler_Werkzeuge.Schaumwalze_Heizkoerperwalze(10)|_Schaumwalze Heizkoerperwalze_|`@Maler_Werkzeuge.Schaumwalze_Heizkoerperwalze(10)`|
+|@Maler_Werkzeuge.Variovlies_M_120_pro(10)|_Variovlies M 120 pro_|`@Maler_Werkzeuge.Variovlies_M_120_pro(10)`|
+|@Maler_Werkzeuge.Schleifpapierhalter_Handschleifer3(10)|_Schleifpapierhalter Handschleifer3_|`@Maler_Werkzeuge.Schleifpapierhalter_Handschleifer3(10)`|
+|@Maler_Werkzeuge.Varioflies_M120_pro_2(10)|_Varioflies M120 pro 2_|`@Maler_Werkzeuge.Varioflies_M120_pro_2(10)`|
+|@Maler_Werkzeuge.Schabloniermesser_Set3(10)|_Schabloniermesser Set3_|`@Maler_Werkzeuge.Schabloniermesser_Set3(10)`|
+|@Maler_Werkzeuge.Stahllineal_8zoll(10)|_Stahllineal 8zoll_|`@Maler_Werkzeuge.Stahllineal_8zoll(10)`|
+|@Maler_Werkzeuge.HeizkoerperPinsel(10)|_HeizkoerperPinsel_|`@Maler_Werkzeuge.HeizkoerperPinsel(10)`|
+|@Maler_Werkzeuge.Klebeband_orange_goldband2(10)|_Klebeband orange goldband2_|`@Maler_Werkzeuge.Klebeband_orange_goldband2(10)`|
+|@Maler_Werkzeuge.Schleifmittel_Schleifpapier2(10)|_Schleifmittel Schleifpapier2_|`@Maler_Werkzeuge.Schleifmittel_Schleifpapier2(10)`|
+|@Maler_Werkzeuge.Schabloniermesser_Set2(10)|_Schabloniermesser Set2_|`@Maler_Werkzeuge.Schabloniermesser_Set2(10)`|
+|@Maler_Werkzeuge.Heissluftfoehn_Geraet2(10)|_Heissluftfoehn Geraet2_|`@Maler_Werkzeuge.Heissluftfoehn_Geraet2(10)`|
+|@Maler_Werkzeuge.Ringpinsel_Gr10(10)|_Ringpinsel Gr10_|`@Maler_Werkzeuge.Ringpinsel_Gr10(10)`|
+|@Maler_Werkzeuge.Schleifpapierhalter_Handschleifer(10)|_Schleifpapierhalter Handschleifer_|`@Maler_Werkzeuge.Schleifpapierhalter_Handschleifer(10)`|
+|@Maler_Werkzeuge.Naturschwaemme2(10)|_Naturschwaemme2_|`@Maler_Werkzeuge.Naturschwaemme2(10)`|
+|@Maler_Werkzeuge.Entenfuss2(10)|_Entenfuss2_|`@Maler_Werkzeuge.Entenfuss2(10)`|
+|@Maler_Werkzeuge.Schnellspachtel(10)|_Schnellspachtel_|`@Maler_Werkzeuge.Schnellspachtel(10)`|
+|@Maler_Werkzeuge.Pumpspruehflasche_2(10)|_Pumpspruehflasche 2_|`@Maler_Werkzeuge.Pumpspruehflasche_2(10)`|
+|@Maler_Werkzeuge.Tapofix_cb75_2(10)|_Tapofix cb75 2_|`@Maler_Werkzeuge.Tapofix_cb75_2(10)`|
+|@Maler_Werkzeuge.Tapofix_Tapeziergeraet4(10)|_Tapofix Tapeziergeraet4_|`@Maler_Werkzeuge.Tapofix_Tapeziergeraet4(10)`|
+|@Maler_Werkzeuge.Abwaschbuerste2(10)|_Abwaschbuerste2_|`@Maler_Werkzeuge.Abwaschbuerste2(10)`|
+|@Maler_Werkzeuge.20x30_Malerwanne_Farbwanne_Lackwanne(10)|_20x30 Malerwanne Farbwanne Lackwanne_|`@Maler_Werkzeuge.20x30_Malerwanne_Farbwanne_Lackwanne(10)`|
+|@Maler_Werkzeuge.Streichbuerste2(10)|_Streichbuerste2_|`@Maler_Werkzeuge.Streichbuerste2(10)`|
+|@Maler_Werkzeuge.Malerspachtel2(10)|_Malerspachtel2_|`@Maler_Werkzeuge.Malerspachtel2(10)`|
+|@Maler_Werkzeuge.Heissluftfoehn_Duese_breit2(10)|_Heissluftfoehn Duese breit2_|`@Maler_Werkzeuge.Heissluftfoehn_Duese_breit2(10)`|
+|@Maler_Werkzeuge.Kunststoffspachtel3(10)|_Kunststoffspachtel3_|`@Maler_Werkzeuge.Kunststoffspachtel3(10)`|
+|@Maler_Werkzeuge.Heissluftfoehn_Duese_breit3(10)|_Heissluftfoehn Duese breit3_|`@Maler_Werkzeuge.Heissluftfoehn_Duese_breit3(10)`|
+|@Maler_Werkzeuge.Heissluftfoehn_mit_Duese(10)|_Heissluftfoehn mit Duese_|`@Maler_Werkzeuge.Heissluftfoehn_mit_Duese(10)`|
+|@Maler_Werkzeuge.Pumpspruehflasche(10)|_Pumpspruehflasche_|`@Maler_Werkzeuge.Pumpspruehflasche(10)`|
+|@Maler_Werkzeuge.Stahllineal(10)|_Stahllineal_|`@Maler_Werkzeuge.Stahllineal(10)`|
+|@Maler_Werkzeuge.Schablonierpinsel(10)|_Schablonierpinsel_|`@Maler_Werkzeuge.Schablonierpinsel(10)`|
+|@Maler_Werkzeuge.Heissluftfoehn_Geraet4(10)|_Heissluftfoehn Geraet4_|`@Maler_Werkzeuge.Heissluftfoehn_Geraet4(10)`|
+|@Maler_Werkzeuge.Raufaser2(10)|_Raufaser2_|`@Maler_Werkzeuge.Raufaser2(10)`|
+|@Maler_Werkzeuge.Abreisblech(10)|_Abreisblech_|`@Maler_Werkzeuge.Abreisblech(10)`|
+|@Maler_Werkzeuge.Malerlineal2(10)|_Malerlineal2_|`@Maler_Werkzeuge.Malerlineal2(10)`|
+|@Maler_Werkzeuge.Schaumwalze(10)|_Schaumwalze_|`@Maler_Werkzeuge.Schaumwalze(10)`|
+|@Maler_Werkzeuge.Ringpinsel_Set(10)|_Ringpinsel Set_|`@Maler_Werkzeuge.Ringpinsel_Set(10)`|
+|@Maler_Werkzeuge.Tapofix_Tapeziergeraet3(10)|_Tapofix Tapeziergeraet3_|`@Maler_Werkzeuge.Tapofix_Tapeziergeraet3(10)`|
+|@Maler_Werkzeuge.Japanspachtel_50mm(10)|_Japanspachtel 50mm_|`@Maler_Werkzeuge.Japanspachtel_50mm(10)`|
+|@Maler_Werkzeuge.Schwingschleifer(10)|_Schwingschleifer_|`@Maler_Werkzeuge.Schwingschleifer(10)`|
+|@Maler_Werkzeuge.Schleifpapierhalter_Handschleifer5(10)|_Schleifpapierhalter Handschleifer5_|`@Maler_Werkzeuge.Schleifpapierhalter_Handschleifer5(10)`|
+|@Maler_Werkzeuge.Ruehrwerk_stehend(10)|_Ruehrwerk stehend_|`@Maler_Werkzeuge.Ruehrwerk_stehend(10)`|
+|@Maler_Werkzeuge.Heissluftfoehn_Koffer_offen_altern(10)|_Heissluftfoehn Koffer offen altern_|`@Maler_Werkzeuge.Heissluftfoehn_Koffer_offen_altern(10)`|
+|@Maler_Werkzeuge.Ruehrwerk_liegend(10)|_Ruehrwerk liegend_|`@Maler_Werkzeuge.Ruehrwerk_liegend(10)`|
+|@Maler_Werkzeuge.Heissluftfoehn_Geraet_altern3(10)|_Heissluftfoehn Geraet altern3_|`@Maler_Werkzeuge.Heissluftfoehn_Geraet_altern3(10)`|
+|@Maler_Werkzeuge.Stahllineal_12zoll(10)|_Stahllineal 12zoll_|`@Maler_Werkzeuge.Stahllineal_12zoll(10)`|
+|@Maler_Werkzeuge.Heiluftfoehn_Geraet(10)|_Heiluftfoehn Geraet_|`@Maler_Werkzeuge.Heiluftfoehn_Geraet(10)`|
+|@Maler_Werkzeuge.Entenfuss(10)|_Entenfuss_|`@Maler_Werkzeuge.Entenfuss(10)`|
+|@Maler_Werkzeuge.tapofix_cb75_8(10)|_tapofix cb75 8_|`@Maler_Werkzeuge.tapofix_cb75_8(10)`|
+|@Maler_Werkzeuge.Japanspachtel_80mm(10)|_Japanspachtel 80mm_|`@Maler_Werkzeuge.Japanspachtel_80mm(10)`|
+|@Maler_Werkzeuge.Handschleifklotz2(10)|_Handschleifklotz2_|`@Maler_Werkzeuge.Handschleifklotz2(10)`|
+|@Maler_Werkzeuge.Schleifgeraet_Excenter120_Staubsack(10)|_Schleifgeraet Excenter120 Staubsack_|`@Maler_Werkzeuge.Schleifgeraet_Excenter120_Staubsack(10)`|
 |@Maler_Werkzeuge.15x30_Malerwanne2(10)|_15x30 Malerwanne2_|`@Maler_Werkzeuge.15x30_Malerwanne2(10)`|
+|@Maler_Werkzeuge.tapofix_cb75_4(10)|_tapofix cb75 4_|`@Maler_Werkzeuge.tapofix_cb75_4(10)`|
+|@Maler_Werkzeuge.Schleifgeraet_Staubsack2(10)|_Schleifgeraet Staubsack2_|`@Maler_Werkzeuge.Schleifgeraet_Staubsack2(10)`|
+|@Maler_Werkzeuge.Ringpinsel_Gr10_2(10)|_Ringpinsel Gr10 2_|`@Maler_Werkzeuge.Ringpinsel_Gr10_2(10)`|
+|@Maler_Werkzeuge.Schlagschnur(10)|_Schlagschnur_|`@Maler_Werkzeuge.Schlagschnur(10)`|
+|@Maler_Werkzeuge.Glaettkelle(10)|_Glaettkelle_|`@Maler_Werkzeuge.Glaettkelle(10)`|
+|@Maler_Werkzeuge.Heissluftfoehn_Koffer_offen_leer(10)|_Heissluftfoehn Koffer offen leer_|`@Maler_Werkzeuge.Heissluftfoehn_Koffer_offen_leer(10)`|
+|@Maler_Werkzeuge.Schleifgeraet_Staubsack_altern(10)|_Schleifgeraet Staubsack altern_|`@Maler_Werkzeuge.Schleifgeraet_Staubsack_altern(10)`|
+|@Maler_Werkzeuge.Schwingschleifer3(10)|_Schwingschleifer3_|`@Maler_Werkzeuge.Schwingschleifer3(10)`|
+|@Maler_Werkzeuge.Klebeband_orange_goldband(10)|_Klebeband orange goldband_|`@Maler_Werkzeuge.Klebeband_orange_goldband(10)`|
+|@Maler_Werkzeuge.Malerspachtel3(10)|_Malerspachtel3_|`@Maler_Werkzeuge.Malerspachtel3(10)`|
+|@Maler_Werkzeuge.Ruehrholz(10)|_Ruehrholz_|`@Maler_Werkzeuge.Ruehrholz(10)`|
+|@Maler_Werkzeuge.Cuttermesser_Abbrechklingen2(10)|_Cuttermesser Abbrechklingen2_|`@Maler_Werkzeuge.Cuttermesser_Abbrechklingen2(10)`|
+|@Maler_Werkzeuge.Kunststoffspachtel5(10)|_Kunststoffspachtel5_|`@Maler_Werkzeuge.Kunststoffspachtel5(10)`|
+|@Maler_Werkzeuge.Heissluftfoehn_Duese_schmal4(10)|_Heissluftfoehn Duese schmal4_|`@Maler_Werkzeuge.Heissluftfoehn_Duese_schmal4(10)`|
+|@Maler_Werkzeuge.Spitzpinsel_set(10)|_Spitzpinsel set_|`@Maler_Werkzeuge.Spitzpinsel_set(10)`|
+|@Maler_Werkzeuge.Muellsaecke(10)|_Muellsaecke_|`@Maler_Werkzeuge.Muellsaecke(10)`|
+|@Maler_Werkzeuge.Schleifgeraet_Excenter120_Staubsack4(10)|_Schleifgeraet Excenter120 Staubsack4_|`@Maler_Werkzeuge.Schleifgeraet_Excenter120_Staubsack4(10)`|
+|@Maler_Werkzeuge.Japanspachtel_Stukateurkelle(10)|_Japanspachtel Stukateurkelle_|`@Maler_Werkzeuge.Japanspachtel_Stukateurkelle(10)`|
+|@Maler_Werkzeuge.Heizkoerperwalze(10)|_Heizkoerperwalze_|`@Maler_Werkzeuge.Heizkoerperwalze(10)`|
+|@Maler_Werkzeuge.Cuttermesser(10)|_Cuttermesser_|`@Maler_Werkzeuge.Cuttermesser(10)`|
+|@Maler_Werkzeuge.Cuttermesser_Abbrechklingen(10)|_Cuttermesser Abbrechklingen_|`@Maler_Werkzeuge.Cuttermesser_Abbrechklingen(10)`|
+|@Maler_Werkzeuge.Heissluftfoehn_Koffer_altern(10)|_Heissluftfoehn Koffer altern_|`@Maler_Werkzeuge.Heissluftfoehn_Koffer_altern(10)`|
+|@Maler_Werkzeuge.Kunststoffspachtel2(10)|_Kunststoffspachtel2_|`@Maler_Werkzeuge.Kunststoffspachtel2(10)`|
+|@Maler_Werkzeuge.Schleifgeraet_Excenter120_2(10)|_Schleifgeraet Excenter120 2_|`@Maler_Werkzeuge.Schleifgeraet_Excenter120_2(10)`|
+|@Maler_Werkzeuge.Stahllineal_150(10)|_Stahllineal 150_|`@Maler_Werkzeuge.Stahllineal_150(10)`|
+|@Maler_Werkzeuge.Schwingschleifer_Daten(10)|_Schwingschleifer Daten_|`@Maler_Werkzeuge.Schwingschleifer_Daten(10)`|
+|@Maler_Werkzeuge.Malerlineal(10)|_Malerlineal_|`@Maler_Werkzeuge.Malerlineal(10)`|
+|@Maler_Werkzeuge.Handschleifklotz(10)|_Handschleifklotz_|`@Maler_Werkzeuge.Handschleifklotz(10)`|
+|@Maler_Werkzeuge.20x30_Malerwanne_Farbwanne_Lackwanne2(10)|_20x30 Malerwanne Farbwanne Lackwanne2_|`@Maler_Werkzeuge.20x30_Malerwanne_Farbwanne_Lackwanne2(10)`|
+|@Maler_Werkzeuge.Ruehrwerk_Seite(10)|_Ruehrwerk Seite_|`@Maler_Werkzeuge.Ruehrwerk_Seite(10)`|
 |@Maler_Planung.Uebung3_Abbildung(10)|_Uebung3 Abbildung_|`@Maler_Planung.Uebung3_Abbildung(10)`|
 |@Maler_Planung.Uebung5_Ergebnis2(10)|_Uebung5 Ergebnis2_|`@Maler_Planung.Uebung5_Ergebnis2(10)`|
 |@Maler_Planung.Uebung6_Abbildung(10)|_Uebung6 Abbildung_|`@Maler_Planung.Uebung6_Abbildung(10)`|
