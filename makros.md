@@ -214,6 +214,9 @@ tags: Wissensspeicher
 @SHK_Planung.Uebung_C_Stahl_01.src: @diagnostik_url_pics/SHK/Planung/Uebung_C-Stahl_01.jpg
 @SHK_Planung.Uebung_C_Stahl_01: @diagnostik_image_pics(@diagnostik_url_pics,SHK/Planung/Uebung_C-Stahl_01.jpg,@0)
 
+@SHK_Planung.T_Stueck_Heissloeten.src: @diagnostik_url_pics/SHK/Planung/T-Stueck_Heissloeten.JPG
+@SHK_Planung.T_Stueck_Heissloeten: @diagnostik_image_pics(@diagnostik_url_pics,SHK/Planung/T-Stueck_Heissloeten.JPG,@0)
+
 @SHK_Planung.Uebung_Aushalsen_04.src: @diagnostik_url_pics/SHK/Planung/Uebung_Aushalsen_04.JPG
 @SHK_Planung.Uebung_Aushalsen_04: @diagnostik_image_pics(@diagnostik_url_pics,SHK/Planung/Uebung_Aushalsen_04.JPG,@0)
 
@@ -252,9 +255,6 @@ tags: Wissensspeicher
 
 @SHK_Planung.Uebung_Aushalsen_01.src: @diagnostik_url_pics/SHK/Planung/Uebung_Aushalsen_01.JPG
 @SHK_Planung.Uebung_Aushalsen_01: @diagnostik_image_pics(@diagnostik_url_pics,SHK/Planung/Uebung_Aushalsen_01.JPG,@0)
-
-@SHK_Planung.T_Stueck_Heissloeten.src: @diagnostik_url_pics/SHK/Planung/T-Stueck_Heißloeten.JPG
-@SHK_Planung.T_Stueck_Heissloeten: @diagnostik_image_pics(@diagnostik_url_pics,SHK/Planung/T-Stueck_Heißloeten.JPG,@0)
 
 @SHK_Planung.Uebung_Aushalsen_03.src: @diagnostik_url_pics/SHK/Planung/Uebung_Aushalsen_03.JPG
 @SHK_Planung.Uebung_Aushalsen_03: @diagnostik_image_pics(@diagnostik_url_pics,SHK/Planung/Uebung_Aushalsen_03.JPG,@0)
@@ -1089,6 +1089,7 @@ Im Nachfolgenden sind alle Bilder aller Bereiche und passende Befehle aufgeliste
 |@SHK_Planung.Uebung__Weichloeten(10)|_Uebung  Weichloeten_|`@SHK_Planung.Uebung__Weichloeten(10)`|
 |@SHK_Planung.Uebung_Aushalsen_02(10)|_Uebung Aushalsen 02_|`@SHK_Planung.Uebung_Aushalsen_02(10)`|
 |@SHK_Planung.Uebung_C_Stahl_01(10)|_Uebung C Stahl 01_|`@SHK_Planung.Uebung_C_Stahl_01(10)`|
+|@SHK_Planung.T_Stueck_Heissloeten(10)|_T Stueck Heissloeten_|`@SHK_Planung.T_Stueck_Heissloeten(10)`|
 |@SHK_Planung.Uebung_Aushalsen_04(10)|_Uebung Aushalsen 04_|`@SHK_Planung.Uebung_Aushalsen_04(10)`|
 |@SHK_Planung.Pruefungsvorbereitung_Anlagenmechaniker_01(10)|_Pruefungsvorbereitung Anlagenmechaniker 01_|`@SHK_Planung.Pruefungsvorbereitung_Anlagenmechaniker_01(10)`|
 |@SHK_Planung.Uebungsplatte_Schweissen(10)|_Uebungsplatte Schweissen_|`@SHK_Planung.Uebungsplatte_Schweissen(10)`|
@@ -1102,7 +1103,6 @@ Im Nachfolgenden sind alle Bilder aller Bereiche und passende Befehle aufgeliste
 |@SHK_Planung.Kupfer__Rohrgestell_Teilstueck(10)|_Kupfer  Rohrgestell Teilstueck_|`@SHK_Planung.Kupfer__Rohrgestell_Teilstueck(10)`|
 |@SHK_Planung.Uebung_C_Stahl_02(10)|_Uebung C Stahl 02_|`@SHK_Planung.Uebung_C_Stahl_02(10)`|
 |@SHK_Planung.Uebung_Aushalsen_01(10)|_Uebung Aushalsen 01_|`@SHK_Planung.Uebung_Aushalsen_01(10)`|
-|@SHK_Planung.T_Stueck_Heissloeten(10)|_T Stueck Heißloeten_|`@SHK_Planung.T_Stueck_Heissloeten(10)`|
 |@SHK_Planung.Uebung_Aushalsen_03(10)|_Uebung Aushalsen 03_|`@SHK_Planung.Uebung_Aushalsen_03(10)`|
 |@SHK_Planung.Uebung_Weich_und_Hartloeten(10)|_Uebung Weich und Hartloeten_|`@SHK_Planung.Uebung_Weich_und_Hartloeten(10)`|
 
