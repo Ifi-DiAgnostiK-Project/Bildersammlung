@@ -20,10 +20,13 @@ how_to_use: |
   # Anleitung
   > Der Befehl zum einbinden eines Bildes lautet `@<Bereich>.<Name>(Größe)`.
   > Hängt man statt der Größe `.src` an, so wird der Link zum Bild angezeigt. `@<Bereich>.<Name>.src`
-  > - Der Bereich ist der Ordnername, in dem sich das Bild befindet.
-  > - Der Name ist der Dateiname ohne Endung.
-  > - Die Größe ist in Zeilen angegeben, die das Bild hoch sein soll.
+
+  - Der Bereich ist der Ordnername, in dem sich das Bild befindet.
+  - Der Name ist der Dateiname ohne Endung.
+  - Die Größe ist in Zeilen angegeben, die das Bild hoch sein soll.
+
   Alle Bilder sowie ihre Bereiche und die Befehle um sie zu laden sind in den Tabellen weiter unten abgebildet.
+
   **Die Anzeige benötigt LiaScript!**
   
   ## Beispiel
