@@ -6,7 +6,7 @@ version: "0.0.5"
 edit: true
 title: "DiAgnostiK Bilder Makros"
 tags: "Wissensspeicher"
-diagnostik_image: "<img src='@0/@1' alt='@1' style='height: @2rem'>"
+diagnostik_image: <img src='@0/@1' alt='@1' style='height: @2rem'>
 
 @Maler_Planung.Uebung1_Abbildung.src: https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/Bildersammlung/refs/heads/main/img/Maler/Planung/Uebung1_Abbildung.jpg
 @Maler_Planung.Uebung1_Abbildung: @diagnostik_image(https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/Bildersammlung/refs/heads/main/img,Maler/Planung/Uebung1_Abbildung.jpg,@0)
@@ -983,10 +983,13 @@ diagnostik_image: "<img src='@0/@1' alt='@1' style='height: @2rem'>"
 # Anleitung
 > Der Befehl zum einbinden eines Bildes lautet `@<Bereich>.<Name>(Größe)`.
 > Hängt man statt der Größe `.src` an, so wird der Link zum Bild angezeigt. `@<Bereich>.<Name>.src`
-> - Der Bereich ist der Ordnername, in dem sich das Bild befindet.
-> - Der Name ist der Dateiname ohne Endung.
-> - Die Größe ist in Zeilen angegeben, die das Bild hoch sein soll.
+
+- Der Bereich ist der Ordnername, in dem sich das Bild befindet.
+- Der Name ist der Dateiname ohne Endung.
+- Die Größe ist in Zeilen angegeben, die das Bild hoch sein soll.
+
 Alle Bilder sowie ihre Bereiche und die Befehle um sie zu laden sind in den Tabellen weiter unten abgebildet.
+
 **Die Anzeige benötigt LiaScript!**
 
 ## Beispiel
