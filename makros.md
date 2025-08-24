@@ -8,6 +8,8 @@ title: "DiAgnostiK Bilder Makros"
 tags: "Wissensspeicher"
 
 @diagnostik_image: <img src='@0/@1' alt='@1' style='height: @2rem'>
+@Planung.licence: Bildquellen: (c) Florian Riefling HWK Dresden
+
 
 @Maler_Planung.Uebung1_Abbildung.src: https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/Bildersammlung/refs/heads/main/img/Maler/Planung/Uebung1_Abbildung.jpg
 @Maler_Planung.Uebung1_Abbildung: @diagnostik_image(https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/Bildersammlung/refs/heads/main/img,Maler/Planung/Uebung1_Abbildung.jpg,@0)
@@ -53,6 +55,8 @@ tags: "Wissensspeicher"
 
 @Maler_Planung.Uebung7_Ergebnis2.src: https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/Bildersammlung/refs/heads/main/img/Maler/Planung/Uebung7_Ergebnis2.jpg
 @Maler_Planung.Uebung7_Ergebnis2: @diagnostik_image(https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/Bildersammlung/refs/heads/main/img,Maler/Planung/Uebung7_Ergebnis2.jpg,@0)
+@Taetigkeiten.licence: Bildquellen: (c) Florian Riefling HWK Dresden
+
 
 @Maler_Taetigkeiten.Abreisblech_Einsatz1.src: https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/Bildersammlung/refs/heads/main/img/Maler/Taetigkeiten/Abreisblech_Einsatz1.jpeg
 @Maler_Taetigkeiten.Abreisblech_Einsatz1: @diagnostik_image(https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/Bildersammlung/refs/heads/main/img,Maler/Taetigkeiten/Abreisblech_Einsatz1.jpeg,@0)
@@ -170,6 +174,8 @@ tags: "Wissensspeicher"
 
 @Maler_Taetigkeiten.Uebertragung_Schrift_und_Signet_7.src: https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/Bildersammlung/refs/heads/main/img/Maler/Taetigkeiten/Uebertragung_Schrift_und_Signet_7.jpeg
 @Maler_Taetigkeiten.Uebertragung_Schrift_und_Signet_7: @diagnostik_image(https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/Bildersammlung/refs/heads/main/img,Maler/Taetigkeiten/Uebertragung_Schrift_und_Signet_7.jpeg,@0)
+@Werkzeuge.licence: Bildquellen: (c) Florian Riefling HWK Dresden
+
 
 @Maler_Werkzeuge.15x30_Malerwanne.src: https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/Bildersammlung/refs/heads/main/img/Maler/Werkzeuge/15x30_Malerwanne.jpeg
 @Maler_Werkzeuge.15x30_Malerwanne: @diagnostik_image(https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/Bildersammlung/refs/heads/main/img,Maler/Werkzeuge/15x30_Malerwanne.jpeg,@0)
@@ -725,6 +731,8 @@ tags: "Wissensspeicher"
 
 @Maler_Werkzeuge.Zirkel3.src: https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/Bildersammlung/refs/heads/main/img/Maler/Werkzeuge/Zirkel3.jpeg
 @Maler_Werkzeuge.Zirkel3: @diagnostik_image(https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/Bildersammlung/refs/heads/main/img,Maler/Werkzeuge/Zirkel3.jpeg,@0)
+@Materialien.licence: Bildquellen: (c) Florian Riefling HWK Dresden
+
 
 @Raumausstatter_Materialien.CV_Belag_oberseite.src: https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/Bildersammlung/refs/heads/main/img/Raumausstatter/Materialien/CV_Belag_oberseite.jpg
 @Raumausstatter_Materialien.CV_Belag_oberseite: @diagnostik_image(https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/Bildersammlung/refs/heads/main/img,Raumausstatter/Materialien/CV_Belag_oberseite.jpg,@0)
@@ -848,6 +856,8 @@ tags: "Wissensspeicher"
 
 @Raumausstatter_Materialien.Wellenfeder1.src: https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/Bildersammlung/refs/heads/main/img/Raumausstatter/Materialien/Wellenfeder1.jpg
 @Raumausstatter_Materialien.Wellenfeder1: @diagnostik_image(https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/Bildersammlung/refs/heads/main/img,Raumausstatter/Materialien/Wellenfeder1.jpg,@0)
+@Werkzeuge.licence: Bildquellen: (c) Florian Riefling HWK Dresden
+
 
 @Raumausstatter_Werkzeuge.Spuhlenkapsel1.src: https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/Bildersammlung/refs/heads/main/img/Raumausstatter/Werkzeuge/Spuhlenkapsel1.jpg
 @Raumausstatter_Werkzeuge.Spuhlenkapsel1: @diagnostik_image(https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/Bildersammlung/refs/heads/main/img,Raumausstatter/Werkzeuge/Spuhlenkapsel1.jpg,@0)
@@ -857,6 +867,8 @@ tags: "Wissensspeicher"
 
 @Raumausstatter_Werkzeuge.Spuhlenkapsel3.src: https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/Bildersammlung/refs/heads/main/img/Raumausstatter/Werkzeuge/Spuhlenkapsel3.jpg
 @Raumausstatter_Werkzeuge.Spuhlenkapsel3: @diagnostik_image(https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/Bildersammlung/refs/heads/main/img,Raumausstatter/Werkzeuge/Spuhlenkapsel3.jpg,@0)
+@Planung.licence: Bildquellen: (c) Florian Riefling HWK Dresden
+
 
 @SHK_Planung.Hartloeten.src: https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/Bildersammlung/refs/heads/main/img/SHK/Planung/Hartloeten.JPG
 @SHK_Planung.Hartloeten: @diagnostik_image(https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/Bildersammlung/refs/heads/main/img,SHK/Planung/Hartloeten.JPG,@0)
@@ -923,6 +935,8 @@ tags: "Wissensspeicher"
 
 @SHK_Planung.Uebungsplatte_Schweissen.src: https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/Bildersammlung/refs/heads/main/img/SHK/Planung/Uebungsplatte_Schweissen.JPG
 @SHK_Planung.Uebungsplatte_Schweissen: @diagnostik_image(https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/Bildersammlung/refs/heads/main/img,SHK/Planung/Uebungsplatte_Schweissen.JPG,@0)
+@Werkzeuge.licence: Bildquellen: (c) Florian Riefling HWK Dresden
+
 
 @SHK_Werkzeuge.Aquatherm_Kunststoffschweissgeraet.src: https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/Bildersammlung/refs/heads/main/img/SHK/Werkzeuge/Aquatherm_Kunststoffschweissgeraet.JPG
 @SHK_Werkzeuge.Aquatherm_Kunststoffschweissgeraet: @diagnostik_image(https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/Bildersammlung/refs/heads/main/img,SHK/Werkzeuge/Aquatherm_Kunststoffschweissgeraet.JPG,@0)
@@ -1010,10 +1024,19 @@ Im Nachfolgenden sind alle Bilder aller Bereiche und passende Befehle aufgeliste
 
 ### Maler
 
+
 |Bild|Name|Befehl|
 |---|---|---|
 
 ### Maler_Planung
+
+
+(c) Florian Riefling HWK Dresden
+
+
+mit `@Planung.licence` kann der Text ausgegeben werden.
+
+> @Planung.licence
 
 |Bild|Name|Befehl|
 |---|---|---|
@@ -1034,6 +1057,14 @@ Im Nachfolgenden sind alle Bilder aller Bereiche und passende Befehle aufgeliste
 |@Maler_Planung.Uebung7_Ergebnis2(10)|_Uebung7 Ergebnis2_|`@Maler_Planung.Uebung7_Ergebnis2(10)`|
 
 ### Maler_Taetigkeiten
+
+
+(c) Florian Riefling HWK Dresden
+
+
+mit `@Taetigkeiten.licence` kann der Text ausgegeben werden.
+
+> @Taetigkeiten.licence
 
 |Bild|Name|Befehl|
 |---|---|---|
@@ -1078,6 +1109,14 @@ Im Nachfolgenden sind alle Bilder aller Bereiche und passende Befehle aufgeliste
 |@Maler_Taetigkeiten.Uebertragung_Schrift_und_Signet_7(10)|_Uebertragung Schrift und Signet 7_|`@Maler_Taetigkeiten.Uebertragung_Schrift_und_Signet_7(10)`|
 
 ### Maler_Werkzeuge
+
+
+(c) Florian Riefling HWK Dresden
+
+
+mit `@Werkzeuge.licence` kann der Text ausgegeben werden.
+
+> @Werkzeuge.licence
 
 |Bild|Name|Befehl|
 |---|---|---|
@@ -1269,10 +1308,19 @@ Im Nachfolgenden sind alle Bilder aller Bereiche und passende Befehle aufgeliste
 
 ### Raumausstatter
 
+
 |Bild|Name|Befehl|
 |---|---|---|
 
 ### Raumausstatter_Materialien
+
+
+(c) Florian Riefling HWK Dresden
+
+
+mit `@Materialien.licence` kann der Text ausgegeben werden.
+
+> @Materialien.licence
 
 |Bild|Name|Befehl|
 |---|---|---|
@@ -1320,6 +1368,14 @@ Im Nachfolgenden sind alle Bilder aller Bereiche und passende Befehle aufgeliste
 
 ### Raumausstatter_Werkzeuge
 
+
+(c) Florian Riefling HWK Dresden
+
+
+mit `@Werkzeuge.licence` kann der Text ausgegeben werden.
+
+> @Werkzeuge.licence
+
 |Bild|Name|Befehl|
 |---|---|---|
 |@Raumausstatter_Werkzeuge.Spuhlenkapsel1(10)|_Spuhlenkapsel1_|`@Raumausstatter_Werkzeuge.Spuhlenkapsel1(10)`|
@@ -1328,10 +1384,19 @@ Im Nachfolgenden sind alle Bilder aller Bereiche und passende Befehle aufgeliste
 
 ### SHK
 
+
 |Bild|Name|Befehl|
 |---|---|---|
 
 ### SHK_Planung
+
+
+(c) Florian Riefling HWK Dresden
+
+
+mit `@Planung.licence` kann der Text ausgegeben werden.
+
+> @Planung.licence
 
 |Bild|Name|Befehl|
 |---|---|---|
@@ -1359,6 +1424,14 @@ Im Nachfolgenden sind alle Bilder aller Bereiche und passende Befehle aufgeliste
 |@SHK_Planung.Uebungsplatte_Schweissen(10)|_Uebungsplatte Schweissen_|`@SHK_Planung.Uebungsplatte_Schweissen(10)`|
 
 ### SHK_Werkzeuge
+
+
+(c) Florian Riefling HWK Dresden
+
+
+mit `@Werkzeuge.licence` kann der Text ausgegeben werden.
+
+> @Werkzeuge.licence
 
 |Bild|Name|Befehl|
 |---|---|---|
