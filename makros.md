@@ -175,32 +175,32 @@ tags: "Wissensspeicher"
 @Maler_Taetigkeiten.Uebertragung_Schrift_und_Signet_7.src: https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/Bildersammlung/refs/heads/main/img/Maler/Taetigkeiten/Uebertragung_Schrift_und_Signet_7.jpeg
 @Maler_Taetigkeiten.Uebertragung_Schrift_und_Signet_7: @diagnostik_image(https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/Bildersammlung/refs/heads/main/img,Maler/Taetigkeiten/Uebertragung_Schrift_und_Signet_7.jpeg,@0)
 
-@Maler_Untertapete.1_1_Untergrundpruefung.src: https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/Bildersammlung/refs/heads/main/img/Maler/Untertapete/1-1_Untergrundpruefung.jpg
-@Maler_Untertapete.1_1_Untergrundpruefung: @diagnostik_image(https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/Bildersammlung/refs/heads/main/img,Maler/Untertapete/1-1_Untergrundpruefung.jpg,@0)
+@Maler_WDVS.1_1_Untergrundpruefung.src: https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/Bildersammlung/refs/heads/main/img/Maler/WDVS/1-1_Untergrundpruefung.jpg
+@Maler_WDVS.1_1_Untergrundpruefung: @diagnostik_image(https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/Bildersammlung/refs/heads/main/img,Maler/WDVS/1-1_Untergrundpruefung.jpg,@0)
 
-@Maler_Untertapete.1_2_Putzentfernen.src: https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/Bildersammlung/refs/heads/main/img/Maler/Untertapete/1-2_Putzentfernen.jpg
-@Maler_Untertapete.1_2_Putzentfernen: @diagnostik_image(https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/Bildersammlung/refs/heads/main/img,Maler/Untertapete/1-2_Putzentfernen.jpg,@0)
+@Maler_WDVS.1_2_Putzentfernen.src: https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/Bildersammlung/refs/heads/main/img/Maler/WDVS/1-2_Putzentfernen.jpg
+@Maler_WDVS.1_2_Putzentfernen: @diagnostik_image(https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/Bildersammlung/refs/heads/main/img,Maler/WDVS/1-2_Putzentfernen.jpg,@0)
 
-@Maler_Untertapete.1_3_Putzgrundierung.src: https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/Bildersammlung/refs/heads/main/img/Maler/Untertapete/1-3_Putzgrundierung.jpg
-@Maler_Untertapete.1_3_Putzgrundierung: @diagnostik_image(https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/Bildersammlung/refs/heads/main/img,Maler/Untertapete/1-3_Putzgrundierung.jpg,@0)
+@Maler_WDVS.1_3_Putzgrundierung.src: https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/Bildersammlung/refs/heads/main/img/Maler/WDVS/1-3_Putzgrundierung.jpg
+@Maler_WDVS.1_3_Putzgrundierung: @diagnostik_image(https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/Bildersammlung/refs/heads/main/img,Maler/WDVS/1-3_Putzgrundierung.jpg,@0)
 
-@Maler_Untertapete.2_1_Sockelschienen_setzen.src: https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/Bildersammlung/refs/heads/main/img/Maler/Untertapete/2-1_Sockelschienen_setzen.jpg
-@Maler_Untertapete.2_1_Sockelschienen_setzen: @diagnostik_image(https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/Bildersammlung/refs/heads/main/img,Maler/Untertapete/2-1_Sockelschienen_setzen.jpg,@0)
+@Maler_WDVS.2_1_Sockelschienen_setzen.src: https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/Bildersammlung/refs/heads/main/img/Maler/WDVS/2-1_Sockelschienen_setzen.jpg
+@Maler_WDVS.2_1_Sockelschienen_setzen: @diagnostik_image(https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/Bildersammlung/refs/heads/main/img,Maler/WDVS/2-1_Sockelschienen_setzen.jpg,@0)
 
-@Maler_Untertapete.2_2_WDVS_verkleben_Duebel.src: https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/Bildersammlung/refs/heads/main/img/Maler/Untertapete/2-2_WDVS_verkleben+Duebel.jpg
-@Maler_Untertapete.2_2_WDVS_verkleben_Duebel: @diagnostik_image(https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/Bildersammlung/refs/heads/main/img,Maler/Untertapete/2-2_WDVS_verkleben+Duebel.jpg,@0)
+@Maler_WDVS.2_2_WDVS_verkleben_Duebel.src: https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/Bildersammlung/refs/heads/main/img/Maler/WDVS/2-2_WDVS_verkleben+Duebel.jpg
+@Maler_WDVS.2_2_WDVS_verkleben_Duebel: @diagnostik_image(https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/Bildersammlung/refs/heads/main/img,Maler/WDVS/2-2_WDVS_verkleben+Duebel.jpg,@0)
 
-@Maler_Untertapete.2_3_Armierungsmasse.src: https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/Bildersammlung/refs/heads/main/img/Maler/Untertapete/2-3_Armierungsmasse.jpg
-@Maler_Untertapete.2_3_Armierungsmasse: @diagnostik_image(https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/Bildersammlung/refs/heads/main/img,Maler/Untertapete/2-3_Armierungsmasse.jpg,@0)
+@Maler_WDVS.2_3_Armierungsmasse.src: https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/Bildersammlung/refs/heads/main/img/Maler/WDVS/2-3_Armierungsmasse.jpg
+@Maler_WDVS.2_3_Armierungsmasse: @diagnostik_image(https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/Bildersammlung/refs/heads/main/img,Maler/WDVS/2-3_Armierungsmasse.jpg,@0)
 
-@Maler_Untertapete.3_1_Grundierung.src: https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/Bildersammlung/refs/heads/main/img/Maler/Untertapete/3-1_Grundierung.jpg
-@Maler_Untertapete.3_1_Grundierung: @diagnostik_image(https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/Bildersammlung/refs/heads/main/img,Maler/Untertapete/3-1_Grundierung.jpg,@0)
+@Maler_WDVS.3_1_Grundierung.src: https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/Bildersammlung/refs/heads/main/img/Maler/WDVS/3-1_Grundierung.jpg
+@Maler_WDVS.3_1_Grundierung: @diagnostik_image(https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/Bildersammlung/refs/heads/main/img,Maler/WDVS/3-1_Grundierung.jpg,@0)
 
-@Maler_Untertapete.3_2_Strukturputz_aufbringen.src: https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/Bildersammlung/refs/heads/main/img/Maler/Untertapete/3-2_Strukturputz_aufbringen.jpg
-@Maler_Untertapete.3_2_Strukturputz_aufbringen: @diagnostik_image(https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/Bildersammlung/refs/heads/main/img,Maler/Untertapete/3-2_Strukturputz_aufbringen.jpg,@0)
+@Maler_WDVS.3_2_Strukturputz_aufbringen.src: https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/Bildersammlung/refs/heads/main/img/Maler/WDVS/3-2_Strukturputz_aufbringen.jpg
+@Maler_WDVS.3_2_Strukturputz_aufbringen: @diagnostik_image(https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/Bildersammlung/refs/heads/main/img,Maler/WDVS/3-2_Strukturputz_aufbringen.jpg,@0)
 
-@Maler_Untertapete.3_3_Fassadenanstrich.src: https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/Bildersammlung/refs/heads/main/img/Maler/Untertapete/3-3_Fassadenanstrich.jpg
-@Maler_Untertapete.3_3_Fassadenanstrich: @diagnostik_image(https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/Bildersammlung/refs/heads/main/img,Maler/Untertapete/3-3_Fassadenanstrich.jpg,@0)
+@Maler_WDVS.3_3_Fassadenanstrich.src: https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/Bildersammlung/refs/heads/main/img/Maler/WDVS/3-3_Fassadenanstrich.jpg
+@Maler_WDVS.3_3_Fassadenanstrich: @diagnostik_image(https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/Bildersammlung/refs/heads/main/img,Maler/WDVS/3-3_Fassadenanstrich.jpg,@0)
 @Maler_Werkzeuge.license: Bildquellen: (c) Florian Riefling HWK Dresden
 
 
@@ -1135,20 +1135,20 @@ mit `@Maler_Taetigkeiten.license` kann der Text ausgegeben werden.
 |@Maler_Taetigkeiten.Uebertragung_Schrift_und_Signet_6(10)|_Uebertragung Schrift und Signet 6_|`@Maler_Taetigkeiten.Uebertragung_Schrift_und_Signet_6(10)`|
 |@Maler_Taetigkeiten.Uebertragung_Schrift_und_Signet_7(10)|_Uebertragung Schrift und Signet 7_|`@Maler_Taetigkeiten.Uebertragung_Schrift_und_Signet_7(10)`|
 
-### Maler_Untertapete
+### Maler_WDVS
 
 
 |Bild|Name|Befehl|
 |---|---|---|
-|@Maler_Untertapete.1_1_Untergrundpruefung(10)|_1 1 Untergrundpruefung_|`@Maler_Untertapete.1_1_Untergrundpruefung(10)`|
-|@Maler_Untertapete.1_2_Putzentfernen(10)|_1 2 Putzentfernen_|`@Maler_Untertapete.1_2_Putzentfernen(10)`|
-|@Maler_Untertapete.1_3_Putzgrundierung(10)|_1 3 Putzgrundierung_|`@Maler_Untertapete.1_3_Putzgrundierung(10)`|
-|@Maler_Untertapete.2_1_Sockelschienen_setzen(10)|_2 1 Sockelschienen setzen_|`@Maler_Untertapete.2_1_Sockelschienen_setzen(10)`|
-|@Maler_Untertapete.2_2_WDVS_verkleben_Duebel(10)|_2 2 WDVS verkleben+Duebel_|`@Maler_Untertapete.2_2_WDVS_verkleben_Duebel(10)`|
-|@Maler_Untertapete.2_3_Armierungsmasse(10)|_2 3 Armierungsmasse_|`@Maler_Untertapete.2_3_Armierungsmasse(10)`|
-|@Maler_Untertapete.3_1_Grundierung(10)|_3 1 Grundierung_|`@Maler_Untertapete.3_1_Grundierung(10)`|
-|@Maler_Untertapete.3_2_Strukturputz_aufbringen(10)|_3 2 Strukturputz aufbringen_|`@Maler_Untertapete.3_2_Strukturputz_aufbringen(10)`|
-|@Maler_Untertapete.3_3_Fassadenanstrich(10)|_3 3 Fassadenanstrich_|`@Maler_Untertapete.3_3_Fassadenanstrich(10)`|
+|@Maler_WDVS.1_1_Untergrundpruefung(10)|_1 1 Untergrundpruefung_|`@Maler_WDVS.1_1_Untergrundpruefung(10)`|
+|@Maler_WDVS.1_2_Putzentfernen(10)|_1 2 Putzentfernen_|`@Maler_WDVS.1_2_Putzentfernen(10)`|
+|@Maler_WDVS.1_3_Putzgrundierung(10)|_1 3 Putzgrundierung_|`@Maler_WDVS.1_3_Putzgrundierung(10)`|
+|@Maler_WDVS.2_1_Sockelschienen_setzen(10)|_2 1 Sockelschienen setzen_|`@Maler_WDVS.2_1_Sockelschienen_setzen(10)`|
+|@Maler_WDVS.2_2_WDVS_verkleben_Duebel(10)|_2 2 WDVS verkleben+Duebel_|`@Maler_WDVS.2_2_WDVS_verkleben_Duebel(10)`|
+|@Maler_WDVS.2_3_Armierungsmasse(10)|_2 3 Armierungsmasse_|`@Maler_WDVS.2_3_Armierungsmasse(10)`|
+|@Maler_WDVS.3_1_Grundierung(10)|_3 1 Grundierung_|`@Maler_WDVS.3_1_Grundierung(10)`|
+|@Maler_WDVS.3_2_Strukturputz_aufbringen(10)|_3 2 Strukturputz aufbringen_|`@Maler_WDVS.3_2_Strukturputz_aufbringen(10)`|
+|@Maler_WDVS.3_3_Fassadenanstrich(10)|_3 3 Fassadenanstrich_|`@Maler_WDVS.3_3_Fassadenanstrich(10)`|
 
 ### Maler_Werkzeuge
 
