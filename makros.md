@@ -883,6 +883,106 @@ tags: "Wissensspeicher"
 
 @Raumausstatter_Materialien.Wellenfeder1.src: https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/Bildersammlung/refs/heads/main/img/Raumausstatter/Materialien/Wellenfeder1.jpg
 @Raumausstatter_Materialien.Wellenfeder1: @diagnostik_image(https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/Bildersammlung/refs/heads/main/img,Raumausstatter/Materialien/Wellenfeder1.jpg,@0)
+@Raumausstatter_Tapezierwerkzeuge.license: Bildquellen: 
+
+@Raumausstatter_Tapezierwerkzeuge.Andrueckspachtel.src: https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/Bildersammlung/refs/heads/main/img/Raumausstatter/Tapezierwerkzeuge/Andrueckspachtel.jpg
+@Raumausstatter_Tapezierwerkzeuge.Andrueckspachtel: @diagnostik_image(https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/Bildersammlung/refs/heads/main/img,Raumausstatter/Tapezierwerkzeuge/Andrueckspachtel.jpg,@0)
+
+@Raumausstatter_Tapezierwerkzeuge.andrueckwalze.src: https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/Bildersammlung/refs/heads/main/img/Raumausstatter/Tapezierwerkzeuge/andrueckwalze.jpg
+@Raumausstatter_Tapezierwerkzeuge.andrueckwalze: @diagnostik_image(https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/Bildersammlung/refs/heads/main/img,Raumausstatter/Tapezierwerkzeuge/andrueckwalze.jpg,@0)
+
+@Raumausstatter_Tapezierwerkzeuge.andrueckwalze_klein.src: https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/Bildersammlung/refs/heads/main/img/Raumausstatter/Tapezierwerkzeuge/andrueckwalze_klein.jpg
+@Raumausstatter_Tapezierwerkzeuge.andrueckwalze_klein: @diagnostik_image(https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/Bildersammlung/refs/heads/main/img,Raumausstatter/Tapezierwerkzeuge/andrueckwalze_klein.jpg,@0)
+
+@Raumausstatter_Tapezierwerkzeuge.cuttermesser.src: https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/Bildersammlung/refs/heads/main/img/Raumausstatter/Tapezierwerkzeuge/cuttermesser.jpg
+@Raumausstatter_Tapezierwerkzeuge.cuttermesser: @diagnostik_image(https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/Bildersammlung/refs/heads/main/img,Raumausstatter/Tapezierwerkzeuge/cuttermesser.jpg,@0)
+
+@Raumausstatter_Tapezierwerkzeuge.cuttermesser_klein.src: https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/Bildersammlung/refs/heads/main/img/Raumausstatter/Tapezierwerkzeuge/cuttermesser_klein.jpg
+@Raumausstatter_Tapezierwerkzeuge.cuttermesser_klein: @diagnostik_image(https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/Bildersammlung/refs/heads/main/img,Raumausstatter/Tapezierwerkzeuge/cuttermesser_klein.jpg,@0)
+
+@Raumausstatter_Tapezierwerkzeuge.deckenbuerste.src: https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/Bildersammlung/refs/heads/main/img/Raumausstatter/Tapezierwerkzeuge/deckenbuerste.jpg
+@Raumausstatter_Tapezierwerkzeuge.deckenbuerste: @diagnostik_image(https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/Bildersammlung/refs/heads/main/img,Raumausstatter/Tapezierwerkzeuge/deckenbuerste.jpg,@0)
+
+@Raumausstatter_Tapezierwerkzeuge.dreieck_beschneidekante.src: https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/Bildersammlung/refs/heads/main/img/Raumausstatter/Tapezierwerkzeuge/dreieck_beschneidekante.jpg
+@Raumausstatter_Tapezierwerkzeuge.dreieck_beschneidekante: @diagnostik_image(https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/Bildersammlung/refs/heads/main/img,Raumausstatter/Tapezierwerkzeuge/dreieck_beschneidekante.jpg,@0)
+
+@Raumausstatter_Tapezierwerkzeuge.dreieck_beschneidekante_klein.src: https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/Bildersammlung/refs/heads/main/img/Raumausstatter/Tapezierwerkzeuge/dreieck_beschneidekante_klein.jpg
+@Raumausstatter_Tapezierwerkzeuge.dreieck_beschneidekante_klein: @diagnostik_image(https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/Bildersammlung/refs/heads/main/img,Raumausstatter/Tapezierwerkzeuge/dreieck_beschneidekante_klein.jpg,@0)
+
+@Raumausstatter_Tapezierwerkzeuge.farbroller.src: https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/Bildersammlung/refs/heads/main/img/Raumausstatter/Tapezierwerkzeuge/farbroller.jpg
+@Raumausstatter_Tapezierwerkzeuge.farbroller: @diagnostik_image(https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/Bildersammlung/refs/heads/main/img,Raumausstatter/Tapezierwerkzeuge/farbroller.jpg,@0)
+
+@Raumausstatter_Tapezierwerkzeuge.farbroller_klein.src: https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/Bildersammlung/refs/heads/main/img/Raumausstatter/Tapezierwerkzeuge/farbroller_klein.jpg
+@Raumausstatter_Tapezierwerkzeuge.farbroller_klein: @diagnostik_image(https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/Bildersammlung/refs/heads/main/img,Raumausstatter/Tapezierwerkzeuge/farbroller_klein.jpg,@0)
+
+@Raumausstatter_Tapezierwerkzeuge.flaechenhobel.src: https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/Bildersammlung/refs/heads/main/img/Raumausstatter/Tapezierwerkzeuge/flaechenhobel.jpg
+@Raumausstatter_Tapezierwerkzeuge.flaechenhobel: @diagnostik_image(https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/Bildersammlung/refs/heads/main/img,Raumausstatter/Tapezierwerkzeuge/flaechenhobel.jpg,@0)
+
+@Raumausstatter_Tapezierwerkzeuge.gleitfussmesser.src: https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/Bildersammlung/refs/heads/main/img/Raumausstatter/Tapezierwerkzeuge/gleitfussmesser.jpg
+@Raumausstatter_Tapezierwerkzeuge.gleitfussmesser: @diagnostik_image(https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/Bildersammlung/refs/heads/main/img,Raumausstatter/Tapezierwerkzeuge/gleitfussmesser.jpg,@0)
+
+@Raumausstatter_Tapezierwerkzeuge.Kleisterspritze.src: https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/Bildersammlung/refs/heads/main/img/Raumausstatter/Tapezierwerkzeuge/Kleisterspritze.jpg
+@Raumausstatter_Tapezierwerkzeuge.Kleisterspritze: @diagnostik_image(https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/Bildersammlung/refs/heads/main/img,Raumausstatter/Tapezierwerkzeuge/Kleisterspritze.jpg,@0)
+
+@Raumausstatter_Tapezierwerkzeuge.Leinenhandschuhe.src: https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/Bildersammlung/refs/heads/main/img/Raumausstatter/Tapezierwerkzeuge/Leinenhandschuhe.jpg
+@Raumausstatter_Tapezierwerkzeuge.Leinenhandschuhe: @diagnostik_image(https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/Bildersammlung/refs/heads/main/img,Raumausstatter/Tapezierwerkzeuge/Leinenhandschuhe.jpg,@0)
+
+@Raumausstatter_Tapezierwerkzeuge.Malerspachtel.src: https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/Bildersammlung/refs/heads/main/img/Raumausstatter/Tapezierwerkzeuge/Malerspachtel.jpg
+@Raumausstatter_Tapezierwerkzeuge.Malerspachtel: @diagnostik_image(https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/Bildersammlung/refs/heads/main/img,Raumausstatter/Tapezierwerkzeuge/Malerspachtel.jpg,@0)
+
+@Raumausstatter_Tapezierwerkzeuge.Nahtroller.src: https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/Bildersammlung/refs/heads/main/img/Raumausstatter/Tapezierwerkzeuge/Nahtroller.jpg
+@Raumausstatter_Tapezierwerkzeuge.Nahtroller: @diagnostik_image(https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/Bildersammlung/refs/heads/main/img,Raumausstatter/Tapezierwerkzeuge/Nahtroller.jpg,@0)
+
+@Raumausstatter_Tapezierwerkzeuge.Nahtroller02.src: https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/Bildersammlung/refs/heads/main/img/Raumausstatter/Tapezierwerkzeuge/Nahtroller02.jpg
+@Raumausstatter_Tapezierwerkzeuge.Nahtroller02: @diagnostik_image(https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/Bildersammlung/refs/heads/main/img,Raumausstatter/Tapezierwerkzeuge/Nahtroller02.jpg,@0)
+
+@Raumausstatter_Tapezierwerkzeuge.Nahtroller_klein.src: https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/Bildersammlung/refs/heads/main/img/Raumausstatter/Tapezierwerkzeuge/Nahtroller_klein.jpg
+@Raumausstatter_Tapezierwerkzeuge.Nahtroller_klein: @diagnostik_image(https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/Bildersammlung/refs/heads/main/img,Raumausstatter/Tapezierwerkzeuge/Nahtroller_klein.jpg,@0)
+
+@Raumausstatter_Tapezierwerkzeuge.Perforations_oder_Igelwalze.src: https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/Bildersammlung/refs/heads/main/img/Raumausstatter/Tapezierwerkzeuge/Perforations-oder-Igelwalze.jpg
+@Raumausstatter_Tapezierwerkzeuge.Perforations_oder_Igelwalze: @diagnostik_image(https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/Bildersammlung/refs/heads/main/img,Raumausstatter/Tapezierwerkzeuge/Perforations-oder-Igelwalze.jpg,@0)
+
+@Raumausstatter_Tapezierwerkzeuge.Schlagschnur_.src: https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/Bildersammlung/refs/heads/main/img/Raumausstatter/Tapezierwerkzeuge/Schlagschnur-.jpg
+@Raumausstatter_Tapezierwerkzeuge.Schlagschnur_: @diagnostik_image(https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/Bildersammlung/refs/heads/main/img,Raumausstatter/Tapezierwerkzeuge/Schlagschnur-.jpg,@0)
+
+@Raumausstatter_Tapezierwerkzeuge.Senklot.src: https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/Bildersammlung/refs/heads/main/img/Raumausstatter/Tapezierwerkzeuge/Senklot.jpg
+@Raumausstatter_Tapezierwerkzeuge.Senklot: @diagnostik_image(https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/Bildersammlung/refs/heads/main/img,Raumausstatter/Tapezierwerkzeuge/Senklot.jpg,@0)
+
+@Raumausstatter_Tapezierwerkzeuge.Senklot_klein.src: https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/Bildersammlung/refs/heads/main/img/Raumausstatter/Tapezierwerkzeuge/Senklot_klein.jpg
+@Raumausstatter_Tapezierwerkzeuge.Senklot_klein: @diagnostik_image(https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/Bildersammlung/refs/heads/main/img,Raumausstatter/Tapezierwerkzeuge/Senklot_klein.jpg,@0)
+
+@Raumausstatter_Tapezierwerkzeuge.Stossschaber.src: https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/Bildersammlung/refs/heads/main/img/Raumausstatter/Tapezierwerkzeuge/Stoßschaber.jpg
+@Raumausstatter_Tapezierwerkzeuge.Stossschaber: @diagnostik_image(https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/Bildersammlung/refs/heads/main/img,Raumausstatter/Tapezierwerkzeuge/Stoßschaber.jpg,@0)
+
+@Raumausstatter_Tapezierwerkzeuge.Tapeten_Tiger.src: https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/Bildersammlung/refs/heads/main/img/Raumausstatter/Tapezierwerkzeuge/Tapeten-Tiger.jpg
+@Raumausstatter_Tapezierwerkzeuge.Tapeten_Tiger: @diagnostik_image(https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/Bildersammlung/refs/heads/main/img,Raumausstatter/Tapezierwerkzeuge/Tapeten-Tiger.jpg,@0)
+
+@Raumausstatter_Tapezierwerkzeuge.tapetenabreisser.src: https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/Bildersammlung/refs/heads/main/img/Raumausstatter/Tapezierwerkzeuge/tapetenabreisser.jpg
+@Raumausstatter_Tapezierwerkzeuge.tapetenabreisser: @diagnostik_image(https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/Bildersammlung/refs/heads/main/img,Raumausstatter/Tapezierwerkzeuge/tapetenabreisser.jpg,@0)
+
+@Raumausstatter_Tapezierwerkzeuge.Tapetenmesser.src: https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/Bildersammlung/refs/heads/main/img/Raumausstatter/Tapezierwerkzeuge/Tapetenmesser.jpg
+@Raumausstatter_Tapezierwerkzeuge.Tapetenmesser: @diagnostik_image(https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/Bildersammlung/refs/heads/main/img,Raumausstatter/Tapezierwerkzeuge/Tapetenmesser.jpg,@0)
+
+@Raumausstatter_Tapezierwerkzeuge.Tapetenschiene.src: https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/Bildersammlung/refs/heads/main/img/Raumausstatter/Tapezierwerkzeuge/Tapetenschiene.jpg
+@Raumausstatter_Tapezierwerkzeuge.Tapetenschiene: @diagnostik_image(https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/Bildersammlung/refs/heads/main/img,Raumausstatter/Tapezierwerkzeuge/Tapetenschiene.jpg,@0)
+
+@Raumausstatter_Tapezierwerkzeuge.Tapezierbuerste.src: https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/Bildersammlung/refs/heads/main/img/Raumausstatter/Tapezierwerkzeuge/Tapezierbuerste.jpg
+@Raumausstatter_Tapezierwerkzeuge.Tapezierbuerste: @diagnostik_image(https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/Bildersammlung/refs/heads/main/img,Raumausstatter/Tapezierwerkzeuge/Tapezierbuerste.jpg,@0)
+
+@Raumausstatter_Tapezierwerkzeuge.Tapezierschere.src: https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/Bildersammlung/refs/heads/main/img/Raumausstatter/Tapezierwerkzeuge/Tapezierschere.jpg
+@Raumausstatter_Tapezierwerkzeuge.Tapezierschere: @diagnostik_image(https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/Bildersammlung/refs/heads/main/img,Raumausstatter/Tapezierwerkzeuge/Tapezierschere.jpg,@0)
+
+@Raumausstatter_Tapezierwerkzeuge.Tapezierschere_klein.src: https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/Bildersammlung/refs/heads/main/img/Raumausstatter/Tapezierwerkzeuge/Tapezierschere_klein.jpg
+@Raumausstatter_Tapezierwerkzeuge.Tapezierschere_klein: @diagnostik_image(https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/Bildersammlung/refs/heads/main/img,Raumausstatter/Tapezierwerkzeuge/Tapezierschere_klein.jpg,@0)
+
+@Raumausstatter_Tapezierwerkzeuge.tapezierwischer.src: https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/Bildersammlung/refs/heads/main/img/Raumausstatter/Tapezierwerkzeuge/tapezierwischer.jpg
+@Raumausstatter_Tapezierwerkzeuge.tapezierwischer: @diagnostik_image(https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/Bildersammlung/refs/heads/main/img,Raumausstatter/Tapezierwerkzeuge/tapezierwischer.jpg,@0)
+
+@Raumausstatter_Tapezierwerkzeuge.tapezierwischer_klein.src: https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/Bildersammlung/refs/heads/main/img/Raumausstatter/Tapezierwerkzeuge/tapezierwischer_klein.jpg
+@Raumausstatter_Tapezierwerkzeuge.tapezierwischer_klein: @diagnostik_image(https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/Bildersammlung/refs/heads/main/img,Raumausstatter/Tapezierwerkzeuge/tapezierwischer_klein.jpg,@0)
+
+@Raumausstatter_Tapezierwerkzeuge.Zollstock.src: https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/Bildersammlung/refs/heads/main/img/Raumausstatter/Tapezierwerkzeuge/Zollstock.jpg
+@Raumausstatter_Tapezierwerkzeuge.Zollstock: @diagnostik_image(https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/Bildersammlung/refs/heads/main/img,Raumausstatter/Tapezierwerkzeuge/Zollstock.jpg,@0)
 @Raumausstatter_Werkzeuge.license: Bildquellen: (c) Florian Riefling HWK Dresden
 
 
@@ -1407,6 +1507,51 @@ mit `@Raumausstatter_Materialien.license` kann der Text ausgegeben werden.
 |@Raumausstatter_Materialien.Tufting_Teppich_rueckseite_(10)|_Tufting Teppich rueckseite._|`@Raumausstatter_Materialien.Tufting_Teppich_rueckseite_(10)`|
 |@Raumausstatter_Materialien.Wellenfeder(10)|_Wellenfeder_|`@Raumausstatter_Materialien.Wellenfeder(10)`|
 |@Raumausstatter_Materialien.Wellenfeder1(10)|_Wellenfeder1_|`@Raumausstatter_Materialien.Wellenfeder1(10)`|
+
+### Raumausstatter_Tapezierwerkzeuge
+
+
+
+
+mit `@Raumausstatter_Tapezierwerkzeuge.license` kann der Text ausgegeben werden.
+
+> @Raumausstatter_Tapezierwerkzeuge.license
+
+|Bild|Name|Befehl|
+|---|---|---|
+|@Raumausstatter_Tapezierwerkzeuge.Andrueckspachtel(10)|_Andrueckspachtel_|`@Raumausstatter_Tapezierwerkzeuge.Andrueckspachtel(10)`|
+|@Raumausstatter_Tapezierwerkzeuge.andrueckwalze(10)|_andrueckwalze_|`@Raumausstatter_Tapezierwerkzeuge.andrueckwalze(10)`|
+|@Raumausstatter_Tapezierwerkzeuge.andrueckwalze_klein(10)|_andrueckwalze klein_|`@Raumausstatter_Tapezierwerkzeuge.andrueckwalze_klein(10)`|
+|@Raumausstatter_Tapezierwerkzeuge.cuttermesser(10)|_cuttermesser_|`@Raumausstatter_Tapezierwerkzeuge.cuttermesser(10)`|
+|@Raumausstatter_Tapezierwerkzeuge.cuttermesser_klein(10)|_cuttermesser klein_|`@Raumausstatter_Tapezierwerkzeuge.cuttermesser_klein(10)`|
+|@Raumausstatter_Tapezierwerkzeuge.deckenbuerste(10)|_deckenbuerste_|`@Raumausstatter_Tapezierwerkzeuge.deckenbuerste(10)`|
+|@Raumausstatter_Tapezierwerkzeuge.dreieck_beschneidekante(10)|_dreieck beschneidekante_|`@Raumausstatter_Tapezierwerkzeuge.dreieck_beschneidekante(10)`|
+|@Raumausstatter_Tapezierwerkzeuge.dreieck_beschneidekante_klein(10)|_dreieck beschneidekante klein_|`@Raumausstatter_Tapezierwerkzeuge.dreieck_beschneidekante_klein(10)`|
+|@Raumausstatter_Tapezierwerkzeuge.farbroller(10)|_farbroller_|`@Raumausstatter_Tapezierwerkzeuge.farbroller(10)`|
+|@Raumausstatter_Tapezierwerkzeuge.farbroller_klein(10)|_farbroller klein_|`@Raumausstatter_Tapezierwerkzeuge.farbroller_klein(10)`|
+|@Raumausstatter_Tapezierwerkzeuge.flaechenhobel(10)|_flaechenhobel_|`@Raumausstatter_Tapezierwerkzeuge.flaechenhobel(10)`|
+|@Raumausstatter_Tapezierwerkzeuge.gleitfussmesser(10)|_gleitfussmesser_|`@Raumausstatter_Tapezierwerkzeuge.gleitfussmesser(10)`|
+|@Raumausstatter_Tapezierwerkzeuge.Kleisterspritze(10)|_Kleisterspritze_|`@Raumausstatter_Tapezierwerkzeuge.Kleisterspritze(10)`|
+|@Raumausstatter_Tapezierwerkzeuge.Leinenhandschuhe(10)|_Leinenhandschuhe_|`@Raumausstatter_Tapezierwerkzeuge.Leinenhandschuhe(10)`|
+|@Raumausstatter_Tapezierwerkzeuge.Malerspachtel(10)|_Malerspachtel_|`@Raumausstatter_Tapezierwerkzeuge.Malerspachtel(10)`|
+|@Raumausstatter_Tapezierwerkzeuge.Nahtroller(10)|_Nahtroller_|`@Raumausstatter_Tapezierwerkzeuge.Nahtroller(10)`|
+|@Raumausstatter_Tapezierwerkzeuge.Nahtroller02(10)|_Nahtroller02_|`@Raumausstatter_Tapezierwerkzeuge.Nahtroller02(10)`|
+|@Raumausstatter_Tapezierwerkzeuge.Nahtroller_klein(10)|_Nahtroller klein_|`@Raumausstatter_Tapezierwerkzeuge.Nahtroller_klein(10)`|
+|@Raumausstatter_Tapezierwerkzeuge.Perforations_oder_Igelwalze(10)|_Perforations oder Igelwalze_|`@Raumausstatter_Tapezierwerkzeuge.Perforations_oder_Igelwalze(10)`|
+|@Raumausstatter_Tapezierwerkzeuge.Schlagschnur_(10)|_Schlagschnur _|`@Raumausstatter_Tapezierwerkzeuge.Schlagschnur_(10)`|
+|@Raumausstatter_Tapezierwerkzeuge.Senklot(10)|_Senklot_|`@Raumausstatter_Tapezierwerkzeuge.Senklot(10)`|
+|@Raumausstatter_Tapezierwerkzeuge.Senklot_klein(10)|_Senklot klein_|`@Raumausstatter_Tapezierwerkzeuge.Senklot_klein(10)`|
+|@Raumausstatter_Tapezierwerkzeuge.Stossschaber(10)|_Stoßschaber_|`@Raumausstatter_Tapezierwerkzeuge.Stossschaber(10)`|
+|@Raumausstatter_Tapezierwerkzeuge.Tapeten_Tiger(10)|_Tapeten Tiger_|`@Raumausstatter_Tapezierwerkzeuge.Tapeten_Tiger(10)`|
+|@Raumausstatter_Tapezierwerkzeuge.tapetenabreisser(10)|_tapetenabreisser_|`@Raumausstatter_Tapezierwerkzeuge.tapetenabreisser(10)`|
+|@Raumausstatter_Tapezierwerkzeuge.Tapetenmesser(10)|_Tapetenmesser_|`@Raumausstatter_Tapezierwerkzeuge.Tapetenmesser(10)`|
+|@Raumausstatter_Tapezierwerkzeuge.Tapetenschiene(10)|_Tapetenschiene_|`@Raumausstatter_Tapezierwerkzeuge.Tapetenschiene(10)`|
+|@Raumausstatter_Tapezierwerkzeuge.Tapezierbuerste(10)|_Tapezierbuerste_|`@Raumausstatter_Tapezierwerkzeuge.Tapezierbuerste(10)`|
+|@Raumausstatter_Tapezierwerkzeuge.Tapezierschere(10)|_Tapezierschere_|`@Raumausstatter_Tapezierwerkzeuge.Tapezierschere(10)`|
+|@Raumausstatter_Tapezierwerkzeuge.Tapezierschere_klein(10)|_Tapezierschere klein_|`@Raumausstatter_Tapezierwerkzeuge.Tapezierschere_klein(10)`|
+|@Raumausstatter_Tapezierwerkzeuge.tapezierwischer(10)|_tapezierwischer_|`@Raumausstatter_Tapezierwerkzeuge.tapezierwischer(10)`|
+|@Raumausstatter_Tapezierwerkzeuge.tapezierwischer_klein(10)|_tapezierwischer klein_|`@Raumausstatter_Tapezierwerkzeuge.tapezierwischer_klein(10)`|
+|@Raumausstatter_Tapezierwerkzeuge.Zollstock(10)|_Zollstock_|`@Raumausstatter_Tapezierwerkzeuge.Zollstock(10)`|
 
 ### Raumausstatter_Werkzeuge
 
