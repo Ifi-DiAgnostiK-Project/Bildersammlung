@@ -1122,6 +1122,15 @@ tags: "Wissensspeicher"
 @Tischler_TSM.Hohl_Trapez_Zahn_HM_Kreissaegeblatt.src: https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/Bildersammlung/refs/heads/main/img/Tischler/TSM/Hohl-Trapez-Zahn_HM_Kreissaegeblatt.png
 @Tischler_TSM.Hohl_Trapez_Zahn_HM_Kreissaegeblatt: @diagnostik_image(https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/Bildersammlung/refs/heads/main/img,Tischler/TSM/Hohl-Trapez-Zahn_HM_Kreissaegeblatt.png,@0)
 
+@Tischler_TSM.Keilleistenmesserwelle_Abrichthobelmaschine.src: https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/Bildersammlung/refs/heads/main/img/Tischler/TSM/Keilleistenmesserwelle_Abrichthobelmaschine.png
+@Tischler_TSM.Keilleistenmesserwelle_Abrichthobelmaschine: @diagnostik_image(https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/Bildersammlung/refs/heads/main/img,Tischler/TSM/Keilleistenmesserwelle_Abrichthobelmaschine.png,@0)
+
+@Tischler_TSM.Messerwelle_mit_formschluessiger_Messerbefestigung_Abrichthobelmaschine.src: https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/Bildersammlung/refs/heads/main/img/Tischler/TSM/Messerwelle_mit_formschluessiger_Messerbefestigung_Abrichthobelmaschine.png
+@Tischler_TSM.Messerwelle_mit_formschluessiger_Messerbefestigung_Abrichthobelmaschine: @diagnostik_image(https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/Bildersammlung/refs/heads/main/img,Tischler/TSM/Messerwelle_mit_formschluessiger_Messerbefestigung_Abrichthobelmaschine.png,@0)
+
+@Tischler_TSM.Spiralmesserwelle_mit_Wendemessern_Abrichthobelmaschine.src: https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/Bildersammlung/refs/heads/main/img/Tischler/TSM/Spiralmesserwelle_mit_Wendemessern_Abrichthobelmaschine.png
+@Tischler_TSM.Spiralmesserwelle_mit_Wendemessern_Abrichthobelmaschine: @diagnostik_image(https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/Bildersammlung/refs/heads/main/img,Tischler/TSM/Spiralmesserwelle_mit_Wendemessern_Abrichthobelmaschine.png,@0)
+
 @Tischler_TSM.Wechselzahn_viele_Zaehne_HM_Kreissaegeblatt.src: https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/Bildersammlung/refs/heads/main/img/Tischler/TSM/Wechselzahn_viele_Zaehne_HM_Kreissaegeblatt.png
 @Tischler_TSM.Wechselzahn_viele_Zaehne_HM_Kreissaegeblatt: @diagnostik_image(https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/Bildersammlung/refs/heads/main/img,Tischler/TSM/Wechselzahn_viele_Zaehne_HM_Kreissaegeblatt.png,@0)
 
@@ -1665,5 +1674,8 @@ mit `@SHK_Werkzeuge.license` kann der Text ausgegeben werden.
 |---|---|---|
 |@Tischler_TSM.Flachzahn_HM_Kreissaegeblatt(10)|_Flachzahn HM Kreissaegeblatt_|`@Tischler_TSM.Flachzahn_HM_Kreissaegeblatt(10)`|
 |@Tischler_TSM.Hohl_Trapez_Zahn_HM_Kreissaegeblatt(10)|_Hohl Trapez Zahn HM Kreissaegeblatt_|`@Tischler_TSM.Hohl_Trapez_Zahn_HM_Kreissaegeblatt(10)`|
+|@Tischler_TSM.Keilleistenmesserwelle_Abrichthobelmaschine(10)|_Keilleistenmesserwelle Abrichthobelmaschine_|`@Tischler_TSM.Keilleistenmesserwelle_Abrichthobelmaschine(10)`|
+|@Tischler_TSM.Messerwelle_mit_formschluessiger_Messerbefestigung_Abrichthobelmaschine(10)|_Messerwelle mit formschluessiger Messerbefestigung Abrichthobelmaschine_|`@Tischler_TSM.Messerwelle_mit_formschluessiger_Messerbefestigung_Abrichthobelmaschine(10)`|
+|@Tischler_TSM.Spiralmesserwelle_mit_Wendemessern_Abrichthobelmaschine(10)|_Spiralmesserwelle mit Wendemessern Abrichthobelmaschine_|`@Tischler_TSM.Spiralmesserwelle_mit_Wendemessern_Abrichthobelmaschine(10)`|
 |@Tischler_TSM.Wechselzahn_viele_Zaehne_HM_Kreissaegeblatt(10)|_Wechselzahn viele Zaehne HM Kreissaegeblatt_|`@Tischler_TSM.Wechselzahn_viele_Zaehne_HM_Kreissaegeblatt(10)`|
 |@Tischler_TSM.Wechselzahn_wenig_Zaehne_HM_Kreissaegeblatt(10)|_Wechselzahn wenig Zaehne HM Kreissaegeblatt_|`@Tischler_TSM.Wechselzahn_wenig_Zaehne_HM_Kreissaegeblatt(10)`|
