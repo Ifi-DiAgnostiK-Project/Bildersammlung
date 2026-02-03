@@ -1115,6 +1115,18 @@ tags: "Wissensspeicher"
 
 @SHK_Werkzeuge.Standbohrmaschine.src: https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/Bildersammlung/refs/heads/main/img/SHK/Werkzeuge/Standbohrmaschine.JPG
 @SHK_Werkzeuge.Standbohrmaschine: @diagnostik_image(https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/Bildersammlung/refs/heads/main/img,SHK/Werkzeuge/Standbohrmaschine.JPG,@0)
+
+@Tischler_TSM.Flachzahn_HM_Kreissaegeblatt.src: https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/Bildersammlung/refs/heads/main/img/Tischler/TSM/Flachzahn_HM_Kreissaegeblatt.png
+@Tischler_TSM.Flachzahn_HM_Kreissaegeblatt: @diagnostik_image(https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/Bildersammlung/refs/heads/main/img,Tischler/TSM/Flachzahn_HM_Kreissaegeblatt.png,@0)
+
+@Tischler_TSM.Hohl_Trapez_Zahn_HM_Kreissaegeblatt.src: https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/Bildersammlung/refs/heads/main/img/Tischler/TSM/Hohl-Trapez-Zahn_HM_Kreissaegeblatt.png
+@Tischler_TSM.Hohl_Trapez_Zahn_HM_Kreissaegeblatt: @diagnostik_image(https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/Bildersammlung/refs/heads/main/img,Tischler/TSM/Hohl-Trapez-Zahn_HM_Kreissaegeblatt.png,@0)
+
+@Tischler_TSM.Wechselzahn_viele_Zaehne_HM_Kreissaegeblatt.src: https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/Bildersammlung/refs/heads/main/img/Tischler/TSM/Wechselzahn_viele_Zaehne_HM_Kreissaegeblatt.png
+@Tischler_TSM.Wechselzahn_viele_Zaehne_HM_Kreissaegeblatt: @diagnostik_image(https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/Bildersammlung/refs/heads/main/img,Tischler/TSM/Wechselzahn_viele_Zaehne_HM_Kreissaegeblatt.png,@0)
+
+@Tischler_TSM.Wechselzahn_wenig_Zaehne_HM_Kreissaegeblatt.src: https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/Bildersammlung/refs/heads/main/img/Tischler/TSM/Wechselzahn_wenig_Zaehne_HM_Kreissaegeblatt.png
+@Tischler_TSM.Wechselzahn_wenig_Zaehne_HM_Kreissaegeblatt: @diagnostik_image(https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/Bildersammlung/refs/heads/main/img,Tischler/TSM/Wechselzahn_wenig_Zaehne_HM_Kreissaegeblatt.png,@0)
 -->
 
 # Link zu LiaScript
@@ -1639,3 +1651,19 @@ mit `@SHK_Werkzeuge.license` kann der Text ausgegeben werden.
 |@SHK_Werkzeuge.Loetbrenner(10)|_Loetbrenner_|`@SHK_Werkzeuge.Loetbrenner(10)`|
 |@SHK_Werkzeuge.Rohrschweisserkasten(10)|_Rohrschweisserkasten_|`@SHK_Werkzeuge.Rohrschweisserkasten(10)`|
 |@SHK_Werkzeuge.Standbohrmaschine(10)|_Standbohrmaschine_|`@SHK_Werkzeuge.Standbohrmaschine(10)`|
+
+### Tischler
+
+
+|Bild|Name|Befehl|
+|---|---|---|
+
+### Tischler_TSM
+
+
+|Bild|Name|Befehl|
+|---|---|---|
+|@Tischler_TSM.Flachzahn_HM_Kreissaegeblatt(10)|_Flachzahn HM Kreissaegeblatt_|`@Tischler_TSM.Flachzahn_HM_Kreissaegeblatt(10)`|
+|@Tischler_TSM.Hohl_Trapez_Zahn_HM_Kreissaegeblatt(10)|_Hohl Trapez Zahn HM Kreissaegeblatt_|`@Tischler_TSM.Hohl_Trapez_Zahn_HM_Kreissaegeblatt(10)`|
+|@Tischler_TSM.Wechselzahn_viele_Zaehne_HM_Kreissaegeblatt(10)|_Wechselzahn viele Zaehne HM Kreissaegeblatt_|`@Tischler_TSM.Wechselzahn_viele_Zaehne_HM_Kreissaegeblatt(10)`|
+|@Tischler_TSM.Wechselzahn_wenig_Zaehne_HM_Kreissaegeblatt(10)|_Wechselzahn wenig Zaehne HM Kreissaegeblatt_|`@Tischler_TSM.Wechselzahn_wenig_Zaehne_HM_Kreissaegeblatt(10)`|
